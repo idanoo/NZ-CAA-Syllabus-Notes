@@ -1,10 +1,7 @@
-# NZ CAA CPL Air Law Syllabus (As at 2025-07-20)
-
 ## General
-
 #### 16.2 Aviation Legislation
 
-**16.2.2 Describe the requirements to hold an aviation document, as laid down in CA Act 2023 sections 55 and 78.**
+##### 16.2.2 Describe the requirements to hold an aviation document, as laid down in CA Act 2023 sections 55 and 78.
 
 **_55 Rules relating to aviation documents_**
  *(1) The Minister may make rules under [section 52](https://www.legislation.govt.nz/act/public/2023/0010/latest/link.aspx?id=LMS50073#LMS50073) providing that an aviation document is required by or in respect of all or any of the following:*
@@ -21,7 +18,7 @@
 *(1) Subject to the rules, an aviation document may be issued by the Director for such specified period and subject to the conditions that the Director considers appropriate in each case.*
 *(2) A person in respect of whom a decision is made under this section may appeal against the decision to the District Court under [section 453](https://www.legislation.govt.nz/act/public/2023/0010/latest/link.aspx?id=LMS49643#LMS49643)*
 
-**16.2.4 Describe the criteria for the fit and proper person test, as laid down in CA Act 2023 section 80.**
+##### 16.2.4 Describe the criteria for the fit and proper person test, as laid down in CA Act 2023 section 80.
 
 (1) For the purpose of determining whether a person is a fit and proper person for any purpose under this Act, the Director must, having regard to the degree and nature of the person’s proposed involvement in the New Zealand civil aviation system, have regard to, and give the weight that the Director considers appropriate to, the following matters:
    (a) the person’s history of compliance with transport safety and transport security requirements, whether inside or outside New Zealand:
@@ -47,7 +44,7 @@
   (a) subsection (1)﻿(a), (b), (c), (f), and (g) must be read as if those paragraphs refer to the body corporate and its officers:
   (b) subsection (1)﻿(d) and (e) must be read as if those paragraphs refer only to the officers of the body corporate.
 
-**16.2.6 Describe the duties of the pilot-in-command, as laid down in CA Act 2023 sections 14, 15 and 16.**
+##### 16.2.6 Describe the duties of the pilot-in-command, as laid down in CA Act 2023 sections 14, 15 and 16.
 
 ***14 Duties of pilot-in-command_***  
 *(1) A pilot-in-command is responsible for—*
@@ -90,7 +87,7 @@
 	*(b) as soon as practicable, notify the Director of the breach and the circumstances that necessitated it; and*  
 	*(c) if requested by the Director, provide to the Director a written report in respect of the breach.*
 
-**16.2.8 Describe the responsibilities of a licence holder with respect to changes in their medical condition, as laid down in CA Act 2023 Schedule 2, clause 8.**
+##### 16.2.8 Describe the responsibilities of a licence holder with respect to changes in their medical condition, as laid down in CA Act 2023 Schedule 2, clause 8.
 
 ***8 Changes in medical condition of licence holder***
 *(1) If a licence holder is aware of, or has reasonable grounds to suspect, any change in the licence holder’s medical condition or the existence of any previously undetected medical condition that may interfere with the safe exercise of the privileges to which the licence holder’s medical certificate relates, the licence holder—*
@@ -105,12 +102,12 @@
 
 *(4) Subclauses (1) to (3) are subject to any directions that the Director may issue under clause 25(1)﻿(b).*
 
-**16.2.10 Describe the responsibilities of a licence holder with respect to the surrender of a medical certificate as laid down in CA Act 2023 Schedule 2, clause 18.**
+##### 16.2.10 Describe the responsibilities of a licence holder with respect to the surrender of a medical certificate as laid down in CA Act 2023 Schedule 2, clause 18.
 
 ***18 Surrender of medical certificate revoked, withdrawn, or suspended***  
 *A person whose medical certificate is revoked, withdrawn, or suspended or who is disqualified from holding the medical certificate for a specified period must, if the document is capable of being surrendered (for example, if the document is in paper form), surrender the medical certificate to the Director, a person authorised by the Director, or a constable.*
 
-**16.2.12 Describe the responsibilities of a licence holder with respect to safety offences, as laid down in CA Act 2023 sections 40, 41 and 103.**
+##### 16.2.12 Describe the responsibilities of a licence holder with respect to safety offences, as laid down in CA Act 2023 sections 40, 41 and 103.
 
 ***40 Operating aircraft in careless manner***  
 *(1) A person who operates any aircraft in a careless manner commits an offence.*
@@ -164,7 +161,7 @@
 Note: Since some definitions in Part 1 have changed to align with the CA Act 2023,
 participants are encouraged to check the new Part 1. CAR Part 1 (unless otherwise noted)
 
-**16.4 State the definition of:**
+##### 16.4 State the definition of:
 
 **(a) accelerate-stop distance available;**
 *the length of the take-off run available plus the length of any stopway*
@@ -615,12 +612,14 @@ State the meaning of the following abbreviations:
 **(z) TLOF (Helicopter candidates only); (AIP GEN)**
 *N/A*
 
-**(aa) VOR.**
+**(aa) VOR**
 *VHF omnidirectional radio range*
+
 ## Personnel Licensing
+
 #### 16.10 Requirements for Licences and Ratings
 
-**16.10.2 State the requirements for holding a pilot licence. CAR Part 61**
+##### 16.10.2 State the requirements for holding a pilot licence. CAR Part 61
 
 ***61.5 Requirement for pilot licence and ratings***
 *(a) **Pilot licence – New Zealand aircraft operating in New Zealand**: Except as provided in paragraphs (m) and (n), a pilot of a New Zealand registered aircraft operating in New Zealand must hold an appropriate current pilot licence—*
@@ -663,7 +662,7 @@ State the meaning of the following abbreviations:
 *(p) A pilot of an aircraft is not required to hold an aircraft type rating when acting as a test pilot in accordance with rule 19.405(1).*
 *(q) A pilot of an aircraft when authorised by an appropriately qualified flight instructor is not required to hold an aircraft type rating when demonstrating or gaining experience in order to obtain an aircraft type rating.*
 
-**16.10.4 State the requirements for a pilot-in-command to hold a type rating on the type of aircraft being flown. CAR Part 61**
+##### 16.10.4 State the requirements for a pilot-in-command to hold a type rating on the type of aircraft being flown. CAR Part 61
 
 ***61.5 Requirement for pilot licence and ratings***
 *(d) **Aircraft type rating**: Except as provided in paragraphs (m) to (q) and rule 61.57, a pilot of a New Zealand registered aircraft, or a foreign aircraft operating in New Zealand, must hold a current aircraft type rating for that aircraft—*
@@ -682,7 +681,7 @@ State the meaning of the following abbreviations:
 *(p) A pilot of an aircraft is not required to hold an aircraft type rating when acting as a test pilot in accordance with rule 19.405(1).*
 *(q) A pilot of an aircraft when authorised by an appropriately qualified flight instructor is not required to hold an aircraft type rating when demonstrating or gaining experience in order to obtain an aircraft type rating.*
 
-**16.10.6 State the requirements for entering flight details into a pilot logbook. CAR Part 61**
+##### 16.10.6 State the requirements for entering flight details into a pilot logbook. CAR Part 61
 
 *61.29 Pilot logbooks – general requirements*
 *(a) A student pilot and the holder of a pilot licence issued in accordance with this Part must maintain an accurate and up-to-date logbook containing—*
@@ -774,7 +773,7 @@ State the meaning of the following abbreviations:
 
 #### 16.12 Eligibility, Privileges and Limitations
 
-**16.12.2 Describe the allowance for a person who does not hold a current pilot licence to fly dual with a flying instructor. CAR Part 61**
+##### 16.12.2 Describe the allowance for a person who does not hold a current pilot licence to fly dual with a flying instructor. CAR Part 61
 
 ***61.103 General***
 *(a) A person who does not hold a current pilot licence issued or validated in accordance with this Part must not manipulate the controls of an aircraft unless the person is—*
@@ -792,7 +791,7 @@ State the meaning of the following abbreviations:
 	*(3) a shoulder harness or a lap and single diagonal shoulder belt for each flight crew seat; and*
 	*(4) intercommunication equipment of an approved type.*
 
-**16.12.4 State the solo flight requirements on a person who does not hold a current pilot licence. CAR Part 61**
+##### 16.12.4 State the solo flight requirements on a person who does not hold a current pilot licence. CAR Part 61
 
 ***61.105 Solo flight requirements***
 *(a) A person who does not hold a current pilot licence issued or validated under this Part must not fly an aircraft solo unless—*
@@ -828,7 +827,7 @@ State the meaning of the following abbreviations:
 *(b) The flight instructor who authorises the solo flight specified in paragraph (a)(4) must monitor the actions of the pilot during the solo flight.*
 *(c) In the case of a first solo flight by day, the certification in the person’s pilot’s logbook required under paragraph (a)(5) may be made after the completion of the first solo flight if the flight instructor is satisfied that all the requirements in paragraph (a)(6) have been met.*
 
-**16.12.6 State the limitations on a person who does not hold a current pilot licence. CAR Part 61**
+##### 16.12.6 State the limitations on a person who does not hold a current pilot licence. CAR Part 61
 
 ***61.107 Limitations***
 *(a) A person who does not hold a current pilot licence issued in accordance with this Part must not act as pilot-in-command of an aircraft—*
@@ -837,7 +836,7 @@ State the meaning of the following abbreviations:
 *(3) on an international flight; or*
 *(4) if any other person is being carried on the aircraft other than a flight examiner or flight instructor.*
 
-**16.12.8 State the eligibility requirements for the issue of a commercial pilot licence. CAR Part 61**
+##### 16.12.8 State the eligibility requirements for the issue of a commercial pilot licence. CAR Part 61
 
 ***61.203 Eligibility requirements***
 *(a) To be eligible for a commercial pilot licence, a person must—*
@@ -872,8 +871,8 @@ State the meaning of the following abbreviations:
 	*(2) paragraph (a)(6), if the person has passed the appropriate air law examination in the 5 years prior to applying for the issue of a commercial pilot licence; and*
 	*(3) paragraph (a)(7).*
 
-**16.12.10 State the privileges of holding a commercial pilot licence. CAR Part 61**
-**16.12.12 State the limitations on the holder of a commercial pilot licence. CAR Part 61**
+##### 16.12.10 State the privileges of holding a commercial pilot licence. CAR Part 61
+##### 16.12.12 State the limitations on the holder of a commercial pilot licence. CAR Part 61
 
 ***61.205 Privileges and limitations***
 *(a) Subject to paragraph (b), a current commercial pilot licence authorises the holder to exercise the following privileges in aircraft of the same category for which the pilot licence is granted and for which the pilot holds an aircraft type rating:*
@@ -890,7 +889,7 @@ State the meaning of the following abbreviations:
 
 #### 16.14 Competency, Currency and Recency
 
-**16.14.2 State the recent experience requirements of a pilot-in-command, by day and by night, who is the holder of a commercial pilot licence. CAR Part 61**
+##### 16.14.2 State the recent experience requirements of a pilot-in-command, by day and by night, who is the holder of a commercial pilot licence. CAR Part 61
 
 ***61.37 Recent flight experience***
 *(b) **Commercial pilot (aeroplane or helicopter) or private pilot – day flight**: A holder of a commercial pilot licence must not act as pilot-in-command of an aircraft on an air operation during the day, and a person who holds a commercial pilot licence or a private pilot licence must not act as pilot-in-command of an aircraft carrying a passenger during the day unless, within the 90 days immediately preceding the flight the person has—*
@@ -902,7 +901,7 @@ State the meaning of the following abbreviations:
 	*(1) carried out (as pilot-in-command of an aircraft or an approved synthetic flight trainer of the same type) not less than 3 take-offs and 3 landings during the night; or*
 	*(2) satisfactorily demonstrated to an appropriately qualified Category A or B flight instructor competence in take-off and landing manoeuvres during the night in an aircraft of the same type.*
 
-**16.14.4 State the requirements for the completion of a biennial flight review. CAR Part 61**
+##### 16.14.4 State the requirements for the completion of a biennial flight review. CAR Part 61
 
 ***61.39 Biennial flight review***
 *(a) Except as provided in paragraph (b), the holder of a pilot licence issued by the Director under the Act and this Part must not exercise the privileges of the pilot licence for longer than 24 months from the date of the issue flight test for the pilot licence unless the holder—*
@@ -929,7 +928,7 @@ State the meaning of the following abbreviations:
 
 *(e) A pilot who successfully completes the biennial flight review required by paragraph (a) within 60 days before the date on which it is required is deemed to have completed the biennial flight review on the required date.*
 
-**16.14.6 Explain the use of a lower licence or rating. CAR Part 61**
+##### 16.14.6 Explain the use of a lower licence or rating. CAR Part 61
 
 ***61.41 Use of lower pilot licence or rating***
 *(a) The holder of an airline transport pilot licence or a commercial pilot licence issued under the Act and this Part who does not hold a current class 1 medical certificate issued under the Act but who holds a current class 2 medical certificate issued under the Act, may exercise the privileges and is subject to the limitations of, a private pilot licence if the pilot meets the currency requirements for the private pilot licence type.*
@@ -938,7 +937,7 @@ State the meaning of the following abbreviations:
 
 *(b) The holder of a pilot licence issued under the Act and this Part who does not meet the currency requirements of rule 61.207 or rule 61.257 for the pilot licence type, but who meets the currency requirements for a lower pilot licence, may exercise the privileges of the lower pilot licence.*
 
-**16.14.8 State the period within which a pilot-in-command of an aircraft engaged on an air operation under CAR Part 135 must have passed a check of route and aerodrome proficiency.**
+##### 16.14.8 State the period within which a pilot-in-command of an aircraft engaged on an air operation under CAR Part 135 must have passed a check of route and aerodrome proficiency.
 
 ***135.607 Flight crew competency assessments***
 *A holder of an air operator certificate must ensure that—*
@@ -946,7 +945,7 @@ State the meaning of the following abbreviations:
 	*(i) consists of a ground-based procedure check over 1 route segment, and a flight check with 1 or more landings at an aerodrome representative of the operations to be flown; and*
 	*(ii) establishes that the pilot can satisfactorily perform the duties and responsibilities of a pilot-in-command in air operations appropriate to this Part; and*
 
-**16.14.10 State the period within which a pilot, acting as a flight crew member of an aircraft engaged on a CAR Part 135 air operation under VFR, must have passed a check of normal, abnormal and emergency procedures in the same aircraft type.**
+##### 16.14.10 State the period within which a pilot, acting as a flight crew member of an aircraft engaged on a CAR Part 135 air operation under VFR, must have passed a check of normal, abnormal and emergency procedures in the same aircraft type.
 
 ***135.607 Flight crew competency assessments***
 *A holder of an air operator certificate must ensure that—*
@@ -954,7 +953,7 @@ State the meaning of the following abbreviations:
 
 *(2a) in addition to paragraph (2), each pilot operating an aircraft at night under VFR using NVIS has, within the immediately preceding 12 months, successfully completed a competency assessment conducted by an appropriately qualified flight instructor or flight examiner that covers procedures of the pilot’s flying skills for the safe use of NVIS, in an aircraft type normally used by the pilot in the operation; and*
 
-**16.14.12 State the period within which a pilot of an aircraft engaged on an air operation under CAR Part 135 must have completed a written or oral test of their knowledge in aircraft systems, performance and operating procedures.**
+##### 16.14.12 State the period within which a pilot of an aircraft engaged on an air operation under CAR Part 135 must have completed a written or oral test of their knowledge in aircraft systems, performance and operating procedures.
 
 ***135.607 Flight crew competency assessments***
 *A holder of an air operator certificate must ensure that—*
@@ -978,14 +977,14 @@ State the meaning of the following abbreviations:
 
 *(6) flight crew competency checks are carried out in an aircraft or flight simulator approved for the purpose.*
 
-**16.14.14 State the CAR Part 135 crew member grace provisions.**
+##### 16.14.14 State the CAR Part 135 crew member grace provisions.
 
 ***135.9 Crew member grace provisions***
 *If a crew member completes a test, flight check, or assessment, that is required under Subparts I or J within 60 days before the date on which the test, flight check, or assessment is required, the crew member is deemed to have completed the test, flight check, or assessment on the date that it is required to be completed.*
 
 #### 16.16 Medical Requirements
 
-**16.16.2 State the requirements for holding a medical certificate. CAR Part 61**
+##### 16.16.2 State the requirements for holding a medical certificate. CAR Part 61
 
 ***61.35 Medical requirement***
 *(a) A person who holds a pilot licence must not exercise the privileges of the licence unless—*
@@ -1005,7 +1004,7 @@ State the meaning of the following abbreviations:
 	*(2) is complying with all the conditions, restrictions and endorsements on the medical certificate.*
 *(d) A person who is required to hold a medical certificate referred to in paragraph (a)(1)(ia) must provide the Director with a copy of the medical certificate within 7 days of the renewal of the certificate.*
 
-**16.16.4 State the requirements on a person applying for a medical certificate. CAR Part 67**
+##### 16.16.4 State the requirements on a person applying for a medical certificate. CAR Part 67
 
 ***67.55 Applications for medical certificates***
 *An applicant for a medical certificate must−*
@@ -1020,7 +1019,7 @@ State the meaning of the following abbreviations:
 	*(iii) the most recent medical assessment report; and*
 *(4) disclose to the Director and the medical examiner (or authorise the disclosure to them of) any information relating to the applicant’s medical condition or history, including information concerning any conviction for an offence involving the possession or use of drugs or alcohol that the Director may reasonably require under schedule 2, clause 3(2) of the Act to determine whether the applicant satisfies the standards for a medical certificate.*
 
-**16.16.6 State the requirements for maintaining medical fitness following the issue of a medical certificate. CA Act 2023 Schedule 2, clause 8**
+##### 16.16.6 State the requirements for maintaining medical fitness following the issue of a medical certificate. CA Act 2023 Schedule 2, clause 8
 
 ***CA Act 2023 Schedule 2, clause 8 - Changes in medical condition of licence holder***
 *(1) If a licence holder is aware of, or has reasonable grounds to suspect, any change in the licence holder’s medical condition or the existence of any previously undetected medical condition that may interfere with the safe exercise of the privileges to which the licence holder’s medical certificate relates, the licence holder—*
@@ -1032,8 +1031,8 @@ State the meaning of the following abbreviations:
 	*(b) advise the Director of the condition.*
 *(4) Subclauses (1) to (3) are subject to any directions that the Director may issue under clause 25(1)﻿(b).*
 
-**16.16.8 State the normal currency period of the Class 1 medical certificate for a CPL holder who is under the age of 40. CAR Part 67**
-**16.16.10 State the normal currency period of the Class 1 medical certificate for a CPL holder who is 40 years of age or more on the date that the certificate is issued. CAR Part 67**
+##### 16.16.8 State the normal currency period of the Class 1 medical certificate for a CPL holder who is under the age of 40. CAR Part 67
+##### 16.16.10 State the normal currency period of the Class 1 medical certificate for a CPL holder who is 40 years of age or more on the date that the certificate is issued. CAR Part 67**
 
 ***67.61 Effective date and duration of medical certificates***
 *(a) Subject to paragraphs (c) and (e), the Director may issue—*
@@ -1042,9 +1041,10 @@ State the meaning of the following abbreviations:
 		*(ii) 12 months, in all other cases;*
 
 ## Airworthiness of Aircraft and Aircraft Equipment
+
 #### 16.20 Documentation
 
-**16.20.2 State the documents which must be carried in aircraft operated in New Zealand. CAR Part 91**
+##### 16.20.2 State the documents which must be carried in aircraft operated in New Zealand. CAR Part 91
 
 ***91.111 Documents to be carried***
 *Except as provided in Parts 103, 104, and 106, a person must not operate an aircraft unless the following documents are carried in the aircraft —*
@@ -1066,7 +1066,7 @@ State the meaning of the following abbreviations:
 
 #### 16.22 Aircraft Maintenance
 
-**16.22.2 Describe the maintenance requirements of an aircraft operator. CAR Part 91**
+##### 16.22.2 Describe the maintenance requirements of an aircraft operator. CAR Part 91
 
 ***91.603 General maintenance requirements***
 *(a) The operator of an aircraft must ensure that—*
@@ -1086,7 +1086,7 @@ State the meaning of the following abbreviations:
 *(e) Despite paragraph (d), a piston engine fitted to an aircraft that is not used for hire or reward operations may be operated beyond the manufacturer’s recommended TBO if the piston engine is maintained in accordance with an engine TBO escalation programme that is acceptable to the Director.*
 *(f) Despite paragraph (d), a propeller fitted to an aircraft that is not used for air operations may be operated beyond the manufacturer’s recommended calendar TBO if the propeller is inspected in accordance with methods acceptable to the Director at 5 yearly intervals, except that propellers must be overhauled at the manufacturer’s recommended operating hours TBO.*
 
-**16.22.4 State the requirement for annual and 100-hour inspections. CAR Part 91**
+##### 16.22.4 State the requirement for annual and 100-hour inspections. CAR Part 91
 
 ***91.605 Maintenance programmes and schedules***
 *(b) The operator of an aircraft that is—*
@@ -1095,7 +1095,7 @@ State the meaning of the following abbreviations:
 	*(3) issued with a special category airworthiness certificate must maintain the aircraft under a valid maintenance programme approved under rule 91.607 for the holder of the certificate of registration for the aircraft.*
 *(c) If the manufacturer’s maintenance schedule referred to in subparagraph (a)(4) does not provide for an aircraft that operates for less than 100 hours of time in service per year, the operator must ensure that the manufacturer’s 100-hour inspection or an equivalent inspection is completed within the preceding 12 months.*
 
-**16.22.6 State the requirement for a review of airworthiness. CAR Part 91**
+##### 16.22.6 State the requirement for a review of airworthiness. CAR Part 91
 
 ***91.615 Review of airworthiness***
 *(a) Except as provided in paragraphs (b) and (c), a person must not operate an aircraft unless—*
@@ -1112,7 +1112,7 @@ State the meaning of the following abbreviations:
 	*(1) for a period of not more than 36 days to allow for maintenance planning purposes if a new extended date, within the 36 day period, for the review of airworthiness is recorded in the technical log; or*
 	*(2) if the sole purpose of operating the aircraft is to enable the review of airworthiness to be completed.*
 
-**16.22.8 State the requirements for maintenance records. CAR Part 91**
+##### 16.22.8 State the requirements for maintenance records. CAR Part 91
 
 ***91.617 Maintenance records***
 *(a) An operator of an aircraft, except a Class 1 microlight aeroplane, must ensure that for each airframe, and each product and component that has a finite life or a TBO recommended by the manufacturer, accurate records are compiled in the appropriate maintenance logbook for the total time-inservice, and if applicable the total cycles.*
@@ -1120,7 +1120,7 @@ State the meaning of the following abbreviations:
 *(c) An operator of an aircraft that is involved in an accident must ensure that descriptive details of the circumstances of the accident, and descriptive details of the resultant damage to the aircraft are recorded in the appropriate maintenance logbook.*
 *(d) The records required in paragraphs (a), (b), and (c) may be kept in plain language form, or in coded form provided that the coded form provides for the preservation and retrieval of information that is required to be recorded.*
 
-**16.22.10 State the requirements for the retention of maintenance records. CAR Part 91**
+##### 16.22.10 State the requirements for the retention of maintenance records. CAR Part 91
 
 ***91.623 Retention of records***
 *(a) Except as provided in paragraph (b), the operator of an aircraft must retain the records specified in rule 91.617 for at least 12 months after the product or component is withdrawn from service.*
@@ -1128,8 +1128,8 @@ State the meaning of the following abbreviations:
 *(c) Reserved*
 *(d) The operator of an aircraft must retain the technical log required under rule 91.619 for a period of at least 12 months after the date of the last entry in the technical log.*
 
-**16.22.12 State the requirements for and contents of a technical log. CAR Part 91**
-**16.22.14 State the requirements for entering defects into a technical log. CAR Part 91**
+##### 16.22.12 State the requirements for and contents of a technical log. CAR Part 91
+##### 16.22.14 State the requirements for entering defects into a technical log. CAR Part 91
 
 ***91.619 Technical log***
 *(a) Except as provided in paragraph (c), the operator of an aircraft must provide a technical log for the aircraft with provision for recording the following information:*
@@ -1156,7 +1156,7 @@ State the meaning of the following abbreviations:
 	*(3) the total time-in-service:*
 	*(4) the total cycles.*
 
-**16.22.16 State the requirements for clearing defects from a technical log. CAR Part 91**
+##### 16.22.16 State the requirements for clearing defects from a technical log. CAR Part 91
 
 ***43.69 Maintenance records***
 *(a) Except as provided in paragraph (b), a person performing maintenance on an aircraft or a component must, on completion of the maintenance, record the following information in the appropriate maintenance logbook:*
@@ -1165,7 +1165,7 @@ State the meaning of the following abbreviations:
 	*(2) record the details required by paragraph (a) in the appropriate maintenance logbook; or*
 	*(3) if the maintenance logbook is not readily available, forward written details of the maintenance to the place where the maintenance logbooks are held by a means, where practicable, other than carriage in the aircraft on which the maintenance has been performed.*
 
-**16.22.18 State the limitations and requirements on a person undertaking ‘pilot maintenance’. CAR Part 43**
+##### 16.22.18 State the limitations and requirements on a person undertaking ‘pilot maintenance’. CAR Part 43**
 
 ***Part 43: Appendix A - Maintenance performed by a person under rule 43.51(b)***
 
@@ -1214,7 +1214,7 @@ State the meaning of the following abbreviations:
 *(9) removal and replacement of piston engine spark plugs:*
 *(10) removal and replacement of brake pads.*
 
-**16.22.20 State the requirements for conducting an operational flight check on an aircraft. CAR Part 91**
+##### 16.22.20 State the requirements for conducting an operational flight check on an aircraft. CAR Part 91
 
 ***91.613 Operational flight check***
 *(a) A person performing an operational flight check that is required by rule 43.103(a)(4)(i) must—*
@@ -1223,7 +1223,7 @@ State the meaning of the following abbreviations:
 	*(3) record any defects found during the operational flight check in the technical log.*
 *(b) A person performing an operational flight check under paragraph (a) must not carry any other person on the aircraft unless that person is required to perform an essential function that is associated with the flight check.*
 
-**16.22.22 State the requirements for acting as a test pilot. CAR Part 19**
+##### 16.22.22 State the requirements for acting as a test pilot. CAR Part 19
 
 ***19.405 Test pilots***
 *A person must not act as a test pilot for the purpose of testing a prototype aircraft or carrying out experimental flying in an aircraft, unless—*
@@ -1231,7 +1231,7 @@ State the meaning of the following abbreviations:
 *(2) the aircraft is a microlight, and the person is authorised by a microlight organisation for the purpose if the organisation’s Part 149 certificate authorises the holder to approve a test pilot for the type of prototype testing or experimental flying that is being undertaken; or*
 *(3) the aircraft is a glider, and the person is authorised by a gliding organisation for the purpose if the organisation’s Part 149 certificate authorises the holder to approve a test pilot for the type of prototype testing or experimental flying that is being undertaken.*
 
-**16.22.24 State the inspection period for radios. CAR Part 91**
+##### 16.22.24 State the inspection period for radios. CAR Part 91
 
 24 months.
 
@@ -1239,7 +1239,7 @@ State the meaning of the following abbreviations:
 *(e) Except as provided in paragraph (f) and rule 91.611, the operator of an aircraft must not operate the aircraft unless—*
 	*(1) every aircraft radio station that is required to be installed in the aircraft under Subpart F for operations under IFR has been tested and inspected under Part 43, Appendix B within the preceding 24 months; and*
 
-**16.22.26 State the inspection period for altimeters. CAR Part 91**
+##### 16.22.26 State the inspection period for altimeters. CAR Part 91
 
 24 months.
 
@@ -1250,7 +1250,7 @@ State the meaning of the following abbreviations:
 		*(ii) following any opening and closing of the static pressure system, except for the use of system drain and alternate pressure valves, or where self-sealing disconnect coupling is provided; and*
 		*(iii) following installation of, or maintenance on, the automatic pressure altitude reporting system where data correspondence error could be introduced; and*
 
-**16.22.28 State the inspection period for transponders. CAR Part 91**
+##### 16.22.28 State the inspection period for transponders. CAR Part 91
 
 24 months.
 
@@ -1258,7 +1258,7 @@ State the meaning of the following abbreviations:
 *(e) Except as provided in paragraph (f) and rule 91.611, the operator of an aircraft must not operate the aircraft unless—*
 	*(3) every surveillance transponder that is required to be installed in the aircraft under Subpart F has been tested and inspected, under Part 43, Appendix E within the preceding 24 months; and*
 
-**16.22.30 State the normal inspection period for the ELT. CAR Part 91**
+##### 16.22.30 State the normal inspection period for the ELT. CAR Part 91
 
 12 months (or 100 hour inspection).
 
@@ -1271,9 +1271,10 @@ State the meaning of the following abbreviations:
 			*(AB) the aircraft manufacturer’s 100 hour inspection or an equivalent inspection, or*
 	*(B) for an aircraft maintained under a maintenance programme required by rule 119.63, the scheduled intervals, which must not be more than 12 months, as described in the approved maintenance programme; and*
 		*(ii) has the battery replaced in accordance with the manufacturer’s instructions, when the life of the battery, as established by the manufacturer, has expired; and*
+
 #### 16.24 Instruments and Avionics
 
-**16.24.2 State the minimum instrument requirements for a day VFR flight. CAR Part 91**
+##### 16.24.2 State the minimum instrument requirements for a day VFR flight. CAR Part 91
 
 ***91.509 Minimum instruments and equipment***
 *(a) A powered aircraft with an airworthiness certificate, except a powered glider, must be equipped with a means of—*
@@ -1300,7 +1301,7 @@ State the meaning of the following abbreviations:
 *(c) Paragraph (b) comes into force on a date to be appointed by the Minister by notice; and 1 or more notices may be made bringing different provisions of paragraph (b) into force on different dates.*
 *(d) An aircraft equipped with a lockable door leading to any compartment normally accessible to passengers must be equipped with a means for a crew member to unlock the door.*
 
-**16.24.4 State the minimum instrument requirements for a night VFR flight. CAR Part 91**
+##### 16.24.4 State the minimum instrument requirements for a night VFR flight. CAR Part 91
 
 ***91.511 Night VFR instruments and equipment***
 *(a) A powered aircraft with an airworthiness certificate operated under VFR by night must be equipped in accordance with rule 91.509 and have—*
@@ -1310,7 +1311,7 @@ State the meaning of the following abbreviations:
 	*(4) illumination for each required instrument or indicator.*
 *(b) An aircraft equipped with a third attitude instrument indicator that is usable through 360° of pitch and roll does not need to be equipped with a means of indicating rate of turn.*
 
-**16.24.6 State the radio equipment requirements for a VFR flight. CAR Part 91**
+##### 16.24.6 State the radio equipment requirements for a VFR flight. CAR Part 91
 
 ***91.513 VFR communication equipment***
 *(a) Unless authorised by ATC to operate under VFR without radio communication, an aircraft operating under VFR in controlled airspace classified under Part 71 as Class B, C, D, or in Class E airspace at night, must be equipped with radio communications equipment that—*
@@ -1318,7 +1319,7 @@ State the meaning of the following abbreviations:
 	*(2) is capable of providing continuous two-way communications with an appropriate ATC unit.*
 *(b) An aircraft operating under VFR outside controlled airspace must be equipped with radio communications equipment that meets level 1 or 2 standards specified in Appendix A, A.9 if the equipment is to be used for communication with any ATS unit.*
 
-**16.24.8 State the communications and navigation equipment requirements for a VFR over water flight. CAR Part 91**
+##### 16.24.8 State the communications and navigation equipment requirements for a VFR over water flight. CAR Part 91
 
 ***91.515 Communication and navigation equipment – VFR over water***
 *An aircraft operating under VFR over water, at a distance that is more than 30 minutes flying time from the nearest shore, must be equipped with—*
@@ -1326,9 +1327,10 @@ State the meaning of the following abbreviations:
 	*(i) meets level 1 or 2 standards specified in Appendix A, A.9; and*
 	*(ii) is capable of providing continuous two-way communications with an appropriate ATS unit or aeronautical telecommunications facility; and*
 *(2) navigation equipment that is capable of being used to navigate the aircraft in accordance with the flight plan.*
+
 #### 16.26 Equipment
 
-**16.26.2 State the equipment requirements for a night VFR flight. CAR Part 91**
+##### 16.26.2 State the equipment requirements for a night VFR flight. CAR Part 91
 
 ***91.511 Night VFR instruments and equipment***
 *(a) A powered aircraft with an airworthiness certificate operated under VFR by night must be equipped in accordance with rule 91.509 and have—*
@@ -1338,7 +1340,7 @@ State the meaning of the following abbreviations:
 	*(4) illumination for each required instrument or indicator.*
 *(b) An aircraft equipped with a third attitude instrument indicator that is usable through 360° of pitch and roll does not need to be equipped with a means of indicating rate of turn.*
 
-**16.26.4 State the equipment requirements for flight over water. CAR Part 91 & 135**
+##### 16.26.4 State the equipment requirements for flight over water. CAR Part 91 & 135
 
 ***91.515 Communication and navigation equipment – VFR over water***
 *An aircraft operating under VFR over water, at a distance that is more than 30 minutes flying time from the nearest shore, must be equipped with—*
@@ -1378,7 +1380,7 @@ State the meaning of the following abbreviations:
 *(c) The operator of a multi-engine aircraft may, instead of the requirement in paragraph (a)(2), have life preservers available for use in a position accessible to each passenger.*
 *(d) A person performing an air transport operation over water beyond 100 NM from shore must conduct the flight under IFR.*
 
-**16.26.6 State the requirements for indicating the time in flight. CAR Part 91**
+##### 16.26.6 State the requirements for indicating the time in flight. CAR Part 91
 
 ***91.221 Flying equipment and operating information***
 *(a) A pilot-in-command of an aircraft must ensure that the following equipment and information, in current and appropriate form, is accessible to every flight crew member of the aircraft:*
@@ -1388,7 +1390,7 @@ State the meaning of the following abbreviations:
 *A powered aircraft issued with an airworthiness certificate and operating under IFR, must be equipped in accordance with rules 91.509 and 91.511 and have the means of indicating—*
 	*(6) time in hours, minutes, and seconds; and*
 
-**16.26.8 State the requirements for emergency equipment. CAR Part 91 & 135**
+##### 16.26.8 State the requirements for emergency equipment. CAR Part 91 & 135
 
 ***91.523 Emergency equipment***
 *(a) An aircraft with a certificated seating capacity of 10 passenger seats or more must be equipped with—*
@@ -1402,7 +1404,7 @@ State the meaning of the following abbreviations:
 *(e) Each compartment or container that contains an item of equipment that is required under paragraph (a), must be marked to indicate its contents.*
 *(f) Paragraph (c) does not apply when the aircraft is carrying cargo exclusively in any passenger compartment converted for the carriage of cargo.*
 
-**16.26.10 State the requirements for night flight. CAR Part 91**
+##### 16.26.10 State the requirements for night flight. CAR Part 91
 
 *91.511 Night VFR instruments and equipment*
 *(a) A powered aircraft with an airworthiness certificate operated under VFR by night must be equipped in accordance with rule 91.509 and have—*
@@ -1412,26 +1414,26 @@ State the meaning of the following abbreviations:
 	*(4) illumination for each required instrument or indicator.*
 *(b) An aircraft equipped with a third attitude instrument indicator that is usable through 360° of pitch and roll does not need to be equipped with a means of indicating rate of turn.*
 
-**16.26.12 State the CAR Part 135 requirements for night flight.**
+##### 16.26.12 State the CAR Part 135 requirements for night flight.
 
 ***135.359 Night flight***
 *Each holder of an air operator certificate must ensure that each of its aircraft operated at night is equipped with—*
 *(1) a landing light; and*
 *(2) a light in each passenger compartment.*
 
-**16.26.14 State the CAR Part 135 requirements for a cockpit voice recorder.**
+##### 16.26.14 State the CAR Part 135 requirements for a cockpit voice recorder.
 
 ***135.367 Cockpit voice recorder***
 *A holder of an air operator certificate must ensure that each of its helicopters is equipped with a cockpit voice recorder if—*
 *(1) the helicopter’s flight manual requires 2 or more flight crew members; and*
 *(2) the helicopter has a certificated seating capacity of 10 seats or more excluding any required pilot seat.*
 
-**16.26.16 State the CAR Part 135 requirements for a flight data recorder.**
+##### 16.26.16 State the CAR Part 135 requirements for a flight data recorder.
 
 ***135.369 Flight data recorder***
 *A holder of an air operator certificate must ensure that each of its helicopters with a certificated seating capacity of 10 seats or more excluding any crew member seat is equipped with a flight data recorder in accordance with paragraph B.4 of Appendix B.*
 
-**16.26.18 State the requirements for an ELT. CAR Part 91**
+##### 16.26.18 State the requirements for an ELT. CAR Part 91
 
 ***91.529 Aircraft emergency location system (AELS) and ELT***
 *(a) A person must not operate a New Zealand registered aircraft within the New Zealand Flight Information Region without an AELS installed in the aircraft that has been approved by the Director in a notice under paragraph (ab).*
@@ -1484,12 +1486,12 @@ State the meaning of the following abbreviations:
 ### General Operating and Flight Rules
 #### 16.30 General Operating Requirements
 
-**16.30.2 Describe the requirements of passengers to comply with instructions and commands. CAR Part 91**
+##### 16.30.2 Describe the requirements of passengers to comply with instructions and commands. CAR Part 91
 
 ***91.5 Compliance with crew instructions and commands***
 *A passenger must comply with any commands given to them by the pilot-in-command pursuant to rule 91.203.*
 
-**16.30.4 Explain the requirements for maintaining daily flight records. CAR Part 91**
+##### 16.30.4 Explain the requirements for maintaining daily flight records. CAR Part 91
 
 ***91.112 Daily flight records***
 *(a) Except as provided in paragraph (c), an operator of an aircraft must keep accurate daily flight records that contain for each flight:—*
@@ -1505,7 +1507,7 @@ State the meaning of the following abbreviations:
 *(b) An operator must retain each daily flight record for a period of 12 months after the date of the flight.*
 *(c) A person required to keep daily flight records under rules 115.455 or 135.857 is not required to comply with paragraphs (a) and (b).*
 
-**16.30.6 Explain the requirements for the carriage of flight attendants. CAR Part 91**
+##### 16.30.6 Explain the requirements for the carriage of flight attendants. CAR Part 91
 
 ***91.115 Flight attendant requirements***
 *(a) Except as provided in paragraph (b), a person must not operate an aircraft carrying more than 19 passengers unless the minimum number of flight attendants carried as crew members on the aircraft are as follows—*
@@ -1523,7 +1525,7 @@ State the meaning of the following abbreviations:
 		*(ii) in a situation requiring emergency evacuation; and*
 	*(2) capable of using the emergency equipment installed in that aircraft.*
 
-**16.30.8 State the requirements for operating an aircraft in simulated instrument flight. CAR Part 91**
+##### 16.30.8 State the requirements for operating an aircraft in simulated instrument flight. CAR Part 91
 
 ***91.125 Simulated instrument flight***
 *(a) Except as provided in paragraph (b), a person must not operate an aircraft in simulated instrument flight unless—*
@@ -1538,7 +1540,7 @@ State the meaning of the following abbreviations:
 	*(1) the simulated flight is performed outside controlled airspace; and*
 	*(2) the means of simulating instrument flight can be removed rapidly by the pilot-in-command.*
 
-**16.30.10 State the requirements of a pilot-in-command with respect to the safe operation of an aircraft. CAR Part 91**
+##### 16.30.10 State the requirements of a pilot-in-command with respect to the safe operation of an aircraft. CAR Part 91
 
 ***91.201 Safety of aircraft***
 *A pilot-in-command of an aircraft must—*
@@ -1548,122 +1550,542 @@ State the meaning of the following abbreviations:
 *(2) during the flight, ensure the safe operation of the aircraft and the safety of its occupants; and*
 *(3) on completion of the inspections required by paragraph (1), and on completion of the flight, record in the technical log or other equivalent document acceptable to the Director any aircraft defects that are identified by the crew during the inspections and during the flight.*
 
-**16.30.12 Describe the authority of the pilot-in-command. CAR Part 91**
+##### 16.30.12 Describe the authority of the pilot-in-command. CAR Part 91
 
 ***91.203 Authority of the pilot-in-command***
 *A pilot-in-command of an aircraft may give any commands necessary for the safety of the aircraft and of persons and property carried on the aircraft, including disembarking or refusing the carriage of—*
 *(1) any person who appears to be under the influence of alcohol or any drug where, in the opinion of the pilot-in-command, their carriage is likely to endanger the aircraft or its occupants; and* 
 *(2) any person, or any part of the cargo, which, in the opinion of the pilot-in-command, is likely to endanger the aircraft or its occupants*
 
-**16.30.14 State the requirements for crew occupation of seats and wearing safety belts. CAR Part 91**
+##### 16.30.14 State the requirements for crew occupation of seats and wearing safety belts. CAR Part 91
 
+***91.205 Crew members at stations***
+*(a) Each crew member on duty during take-off and landing in an aircraft, other than in a balloon, must—*
+*(1) be at their crew member station unless their absence is necessary to perform duties in connection with the operation of the aircraft; and*
+*(2) have their safety belt fastened while at the crew member station.*
+*(b) Each crew member on duty during take-off and landing in an aircraft, other than in a balloon, must have their shoulder harness fastened while at their crew member station, unless—*
+*(1) the seat at the crew member station is not equipped with a shoulder harness; or*
+*(2) the crew member would be unable to perform their duties with the shoulder harness fastened.*
 
-**16.30.16 State the requirements for the occupation of seats and wearing of restraints. CAR Part 91**
+##### 16.30.16 State the requirements for the occupation of seats and wearing of restraints. CAR Part 91
 
+***91.207 Occupation of seats and wearing of restraints***
+*(a) Except as provided in paragraph (da), a pilot-in-command of an aircraft must require each passenger to occupy a seat or berth and to fasten their safety belt, restraining belt or, if equipped, shoulder harness or single diagonal shoulder belt—*
+	*(1) during each take-off and landing; and*
+	*(2) when the aircraft is flying at a height of less than 1000 feet above the surface; and*
+	*(3) at other times when the pilot-in-command considers it necessary for their safety; and*
+	*(4) during aerobatic flight; and*
+	*(5) at all times in an open cockpit aircraft.*
+*(b) A pilot-in-command of an aircraft may permit a passenger to unfasten a shoulder harness or single diagonal shoulder belt—*
+	*(1) during take-off and landing; and*
+	*(2) when the aircraft is flying at a height of less than 1000 feet above the surface—*
+	*if the pilot-in-command is satisfied that such action is necessary for the passenger’s performance of an essential function associated with the purpose of the flight.*
+*(c) A pilot-in-command of an aircraft must require each passenger to place their seat in the take-off and landing configuration during take-off and landing.*
+*(d) Paragraphs (a)(1), (2), and (3) do not apply to a child under 4 years of age if the child—*
+	*(1) is held by an adult who is occupying a seat or berth, and the child is secured by a safety belt attached to the adult’s safety belt; or*
+	*(2) occupies a seat equipped with a child restraint system, if the child does not exceed the specified weight limit for that system and is accompanied by a parent, guardian, or by an attendant designated by the child’s parent or guardian to attend to the safety of the child during the flight.*
+*(da) A pilot-in-command of a helicopter may allow a passenger not to fasten their safety belt, restraining belt, or if equipped, shoulder harness or single diagonal shoulder belt when the aircraft is flying at a height of less than 1000 feet above the surface in order for the passenger to enter or exit from the helicopter while it is hovering.*
+*(db) For an operation under paragraph (da) that is performed by the holder of an air operator certificate, agricultural aircraft operator certificate, or training organisation certificate – the operator of the aircraft must establish, document and implement standard operating procedures, passenger briefing procedures, training procedures and competency assessment procedures for ensuring the risk of injury to any person entering or exiting the aircraft in the hover and any person on board the aircraft while a person is entering or exiting the aircraft in the hover, is reduced to as low as reasonably practicable.*
+*(dc) For an operation under paragraph (da) that is performed by a person who does not hold an air operator certificate, agricultural aircraft operator certificate, or training organisation certificate –*
+	*(1) the pilot-in-command must have been trained by an appropriate instructor in the operational techniques necessary to manage the risks associated with a person entering or exiting the aircraft in a hover and have been checked by an appropriate instructor in these techniques within the last 2 years; and*
+	*(2) the pilot-in-command must identify the risks associated with persons entering or exiting the aircraft in a hover and the mitigations that will be used to reduce these risks as low as reasonably practicable; and*
+	*(3) the pilot-in-command must brief each passenger that will be on board the aircraft while a person exits the aircraft in a hover and any person intending to enter the aircraft in a hover, on the mitigations identified for entering or exiting the aircraft in a hover.*
+*(dd) Paragraph (da) does not apply to fast roping or rappelling operations.*
+*(e) Paragraph (a) does not apply to passengers carried in balloons or engaged in parachute operations.*
 
-**16.30.18 State the requirements for the use of oxygen equipment. CAR Part 91**
+##### 16.30.18 State the requirements for the use of oxygen equipment. CAR Part 91
 
+***91.209 Use of oxygen equipment***
+*(a) A pilot-in-command of an unpressurised aircraft must, during any time that the aircraft is being operated above 13 000 feet AMSL and during any period of more than 30 minutes that the aircraft is being operated between 10 000 feet and up to and including 13 000 feet AMSL, require—*
+	*(1) each crew member and each passenger to use supplemental oxygen; and*
+	*(2) each crew member to use portable oxygen equipment, including a regulator and attached oxygen mask, for any duty requiring movement from their usual station.*
+*(b) A pilot-in-command of a pressurised aircraft must—*
+	*(1) during any time the cabin pressure altitude is above 10 000 feet AMSL, require—*
+		*(i) each crew member to use supplemental oxygen; and*
+		*(ii) each crew member to use portable oxygen equipment, including a regulator and attached oxygen mask, for any duty requiring movement from their usual station; and*
+	*(2) during any time the aircraft is being operated from flight level 350 up to and including flight level 410, require—*
+		*(i) one pilot at a pilot station to wear and use an oxygen mask that either supplies supplemental oxygen at all times or automatically supplies supplemental oxygen whenever the cabin pressure altitude exceeds 13 000 feet AMSL; or*
+		*(ii) two pilots to be at their pilot stations and each pilot to have access to an oxygen mask that can be placed on the face and supplying oxygen within 5 seconds; and*
+	*(3) during any time the aircraft is being operated above flight level 410, require one pilot at a pilot station to wear and use a demand oxygen mask at all times.*
+*(c) A pilot-in-command of a pressurised aircraft must, following pressurisation failure, require each passenger to use supplemental oxygen during any time that the cabin pressure is above 14 000 feet AMSL, unless the aircraft can descend to 14 000 feet AMSL or below within 4 minutes.*
 
-**16.30.20 State the requirements for briefing passengers prior to flight. CAR Part 91**
+##### 16.30.20 State the requirements for briefing passengers prior to flight. CAR Part 91
 
+***91.211 Passenger briefing***
+*(a) A person operating an aircraft carrying passengers must ensure that each passenger has been briefed on—*
+	*(1) the conditions under which smoking is permitted; and*
+	*(2) the applicable requirements specified in rules 91.121 and 91.207; and*
+	*(3) the location and means for opening the passenger entry doors and emergency exits; and*
+	*(4) when required to be carried by this Part—*
+		*(i) the location of survival and emergency equipment for passenger use; and*
+		*(ii) the use of flotation equipment required under rule 91.525 for a flight over water; and*
+		*(iii) the normal and emergency use of oxygen equipment installed in the aircraft for passenger use; and*
+	*(5) procedures in the case of an emergency landing; and*
+	*(6) the use of portable electronic devices in accordance with rule 91.7.*
+*(b) The briefing required under paragraph (a)—*
+	*(1) must be given by the pilot-in-command, a member of the crew, a person nominated by the operator, or by a recorded presentation; and*
+	*(2) must, for flights above FL 250, include a demonstration on the use of supplemental oxygen equipment; and*
+	*(3) must include a demonstration on the use of life preservers when required to be carried by this Part; and*
+	*(4) must include a statement, as appropriate, that Civil Aviation Rules require passenger compliance with lighted passenger signs and crew member instructions; and*
+	*(5) may be supplemented by printed cards for the use of each passenger containing—*
+		*(i) diagrams of, and methods of operating the emergency exits; and*
+		*(ii) other instructions necessary for the use of emergency equipment intended for use by passengers; and*
+	*(6) is not required if the pilot-in-command determines that all the passengers are familiar with the contents of the briefing.*
+*(c) Where printed cards are used in accordance with paragraph (b)(5), the operator must place them in convenient locations on the aircraft for the use of each passenger and ensure that they contain information that is pertinent only to the type and model of aircraft on which they are carried.*
 
-**16.30.22 State the requirements for familiarity with operating limitations and emergency equipment. CAR Part 91**
+##### 16.30.22 State the requirements for familiarity with operating limitations and emergency equipment. CAR Part 91
 
+***91.219 Familiarity with operating limitations and emergency equipment***
+*Each pilot of an aircraft must, before beginning a flight, be familiar with—*
+*(1) the aircraft flight manual for that aircraft; and*
+*(2) any placards, listings, instrument markings, or any combination thereof, containing any operating limitation prescribed for that aircraft by the manufacturer or the Director; and*
+*(3) the emergency equipment installed on the aircraft; and*
+*(4) which crew member is assigned to operate the emergency equipment; and*
+*(5) the procedures to be followed for the use of the emergency equipment in an emergency situation.*
 
-**16.30.24 State the requirements for carrying appropriate aeronautical publications and charts in flight. CAR Part 91**
+##### 16.30.24 State the requirements for carrying appropriate aeronautical publications and charts in flight. CAR Part 91
 
+***91.221 Flying equipment and operating information***
+*(a) A pilot-in-command of an aircraft must ensure that the following equipment and information, in current and appropriate form, is accessible to every flight crew member of the aircraft:*
+	*(1) an accurate means of indicating the time:*
+	*(2) appropriate aeronautical charts:*
+	*(3) for IFR operations, every appropriate navigational en route, terminal area, approach, and instrument approach and departure chart:*
+	*(4) for night operations, an operable electric torch for every flight crew member.*
+*(b) In addition to paragraph (a), a pilot-in-command of an aircraft in excess of 5700 kg MCTOW, or having a certificated seating capacity of 10 passenger seats or more, must ensure that every flight crew member uses a cockpit checklist covering the normal and emergency procedures for the operation of the aircraft in accordance with the aircraft flight manual.*
 
-**16.30.26 State the requirements for operating on and in the vicinity of an aerodrome. CAR Part 91**
+##### 16.30.26 State the requirements for operating on and in the vicinity of an aerodrome. CAR Part 91
 
+***91.223 Operating on and in the vicinity of an aerodrome***
+*(a) Except as provided in paragraph (b), a pilot of an aeroplane operating on or in the vicinity of an aerodrome must—*
+	*(1) observe other aerodrome traffic for the purpose of avoiding a collision; and*
+	*(2) unless otherwise authorised or instructed by ATC, conform with or avoid the aerodrome traffic circuit formed by other aircraft; and*
+	*(3) perform a left-hand aerodrome traffic circuit when approaching for a landing at and after take-off from an aerodrome that is published in the AIPNZ unless—*
+		*(i) the pilot is otherwise authorised or instructed by ATC; or*
+		*(ii) the IFR procedure published in the AIPNZ for the runway being used specifies a right-hand turn and the approach for landing or the take-off is being performed in accordance with the instrument procedure; and*
+	*(4) perform a right-hand aerodrome traffic circuit when approaching for a landing at and after take-off from an aerodrome that is published in the AIPNZ, if the details published in the AIPNZ for the aerodrome specify a right-hand aerodrome traffic circuit for the runway being used unless—*
+		*(i) the pilot is otherwise authorised or instructed by ATC; or*
+		*(ii) the IFR procedure published in the AIPNZ for the runway being used specifies a left-hand turn and the approach for landing or the take-off is being performed in accordance with the instrument procedure; and*
+	*(5) unless otherwise authorised or instructed by ATC, comply with any special aerodrome traffic rules prescribed in Part 93 for the aerodrome.*
+*(b) Paragraphs (a)(3), (a)(4), and (a)(5) do not apply to the pilot-incommand of an aircraft operating at an aviation event in accordance with rule 91.703.*
+*(c) Notwithstanding paragraphs (a)(3) and (a)(4), a pilot-in-command of an aircraft performing an agricultural aircraft operation from an aerodrome that is published in the AIPNZ may make turns in any direction when approaching for a landing or after take-off if—*
+	*(1) the aerodrome does not have an aerodrome control service in attendance; and*
+	*(2) an aerodrome ground signal depicted in Figure 1 is displayed alongside the runway in use; and*
+	*(3) there is no conflict with other aerodrome traffic.*
+*(d) Subject to paragraphs (b) and (c), a pilot-in-command of a helicopter operating on or in the vicinity of an aerodrome must comply with paragraph (a) or avoid the aerodrome traffic circuit being used by an aeroplane operating on or in the vicinity of the aerodrome.*
 
-**16.30.28 Describe the standard overhead joining procedure, and state when it should be used. AIP AD**
+##### 16.30.28 Describe the standard overhead joining procedure, and state when it should be used. AIP AD**
 
+***AD 1.6-6***
 
-**16.30.30 State and describe the application of the right of way rules. CAR Part 91**
+***5.1 Standard Overhead Join Procedure***
+*5.1.1 The standard overhead joining procedure, which is depicted in Figure AD 1.6-1C, should be followed at unattended aerodromes (where no aerodrome control or AFIS is provided) and at other aerodromes when a pilot is unfamiliar with the aerodrome or is uncertain of circuit traffic. The standard overhead joining procedure is a means of compliance with CAR 91.223(a)(2), which requires a pilot to conform with or avoid the aerodrome traffic circuit formed by other aircraft. This procedure is used to determine the runway-in-use and the position of traffic in order to sequence safely. It does not presume a right of way over existing circuit activity.*
 
+***5.1.2 The following procedures should be followed by pilots:***
+*(a) If the aircraft is RTF equipped, advise aerodrome traffic of joining intentions.*
+*(b) Approach the aerodrome by descending or climbing to 1500 ft or above aerodrome elevation. If a circuit height other than 1000 ft is specified on the aerodrome chart, join at not less than 500 ft above circuit height, or if applicable, the specified joining altitude.*
+*(c) Pass over the aerodrome (keeping it on your left) in order to observe wind, circuit traffic and any ground signals displayed in order to establish the runway-in-use and sequence safely; if these cannot be fully ascertained, continue (wings level) to a point beyond the circuit area (approx. 2 NM) and turn left to return to the aerodrome at or above the joining height as specified in (b) to reassess circuit direction.*
+*(d) Once the conditions in (c) are ascertained and the circuit direction is established, position on the non-traffic side to descend to circuit height to enter the circuit, making all subsequent turns in the direction of the traffic circuit.*
+*(e) Turn 90° across wind and pass sufficiently close to the upwind end of the runway to ensure that aircraft taking off can pass safely underneath.*
+*(f) Turn to join the downwind leg of the traffic circuit at a point that ensures adequate spacing with any aircraft in the circuit ahead or behind.*
+*(g) High performance aircraft taking off, or aircraft in a go around/missed approach, caution joining traffic crossing upwind threshold at circuit height from non-traffic side.*
+*5.1.3 An ATC clearance is required prior to carrying out this procedure at controlled aerodromes*
 
-**16.30.32 Explain the requirement for aircraft lighting. CAR Part 91**
+##### 16.30.30 State and describe the application of the right of way rules. CAR Part 91
 
+***91.229 Right-of-way rules***
+*(a) A pilot of an aircraft—*
+	*(1) must, when weather conditions permit, regardless of whether the flight is performed under IFR or under VFR, maintain a visual lookout so as to see and avoid other aircraft; and*
+	*(2) that has the right of way, must maintain heading and speed, but is not relieved from the responsibility of taking such action, including collision-avoidance manoeuvres based on resolution advisories provided by ACAS, that will best avert collision; and*
+	*(3) that is obliged to give way to another aircraft, must avoid passing over, under, or in front of the other aircraft, unless passing well clear of the aircraft, taking into account the effect of wake turbulence.*
+*(b) A pilot of an aircraft must, when approaching another aircraft head-on, or nearly so, alter heading to the right.*
+*(c) A pilot of an aircraft that is converging at approximately the same altitude with another aircraft that is to its right, must give way, except that the pilot operating—*
+	*(1) a power-driven heavier-than-air aircraft must give way to airships, gliders, and balloons; and*
+	*(2) an airship must give way to gliders and balloons; and*
+	*(3) a glider must give way to balloons; and*
+	*(4) a power-driven aircraft must give way to aircraft that are towing other aircraft or objects; and*
+	*(5) all aircraft must give way to parachutes.*
+*(d) A pilot of an aircraft that is overtaking another aircraft must, if a turn is necessary to avoid that aircraft, alter heading to the right, until the overtaking aircraft is entirely past and clear of the other aircraft.*
+*(e) For the purpose of paragraph (d), an overtaking aircraft is an aircraft that approaches another from the rear on a line forming less than 70 degrees with the plane of symmetry of the latter.*
+*(f) A pilot of an aircraft in flight or on the surface must—*
+	*(1) give way to any aircraft that is in the final stages of an approach to land or is landing; and*
+	*(2) when the aircraft is one of 2 or more heavier-than-air aircraft approaching an aerodrome for the purpose of landing, give way to the aircraft at the lower altitude; and*
+	*(3) not take advantage of right-of-way under subparagraph (2) to pass in front of another aircraft, which is on final approach to land, or overtake that aircraft.*
+*(g) A pilot of an aircraft must not take off if there is an apparent risk of collision with another aircraft.*
+*(h) A pilot of an aircraft taxiing on the manoeuvring area of an aerodrome must—*
+	*(1) give way to aircraft landing, taking off, or about to take off; and*
+	*(2) when 2 aircraft are approaching head on, or nearly so, stop or, where practicable, alter course to the right so as to keep well clear of the other aircraft; and*
+	*(3) when 2 aircraft are on a converging course, give way to other aircraft on the pilot’s right; and*
+	*(4) when overtaking another aircraft, give way and keep well clear of the aircraft being overtaken.*
+*(i) A pilot of an aircraft must give way to any aircraft that is in distress.*
 
-**16.30.34 State the requirements for the pilot of an aircraft, being flown for the purpose of demonstrating eligibility for the issue of an airworthiness certificate. CAR Part 91**
+##### 16.30.32 Explain the requirement for aircraft lighting. CAR Part 91
 
+***91.233 Aircraft lights***
+*(a) A pilot of an aircraft must not—*
+	*(1) operate an aircraft at night unless it has lighted position lights; or*
+	*(2) moor or move an aircraft at night on a water aerodrome unless the aircraft complies with the lighting requirement of the International Regulations for Preventing Collisions at Sea; or*
+	*(3) operate an aircraft at night that is required by Subpart F to be equipped with an anti-collision light system unless the anti-collision light system is operating.*
+	*(3a) operate an aircraft at night using NVIS unless the aircraft’s internal and external lighting meets the performance requirements as specified in a notice under rule 91.273(a)(1).*
+*(b) A person must not park or move an aircraft at night on a manoeuvring area of an aerodrome that is in use for aircraft operations unless the aircraft—*
+	*(1) is clearly illuminated; or*
+	*(2) has lighted position lights; or*
+	*(3) is in an area that is marked by obstruction lights.*
+*(c) Despite (a)(3), a pilot of an aircraft is not required to operate the anti-collision light system if the pilot determines that, because of operating conditions, it is in the best interest of safety to turn the system off.*
 
-**16.30.36 State the requirements for wearing/holding identity documentation in certain areas. CAR Part 139**
+##### 16.30.34 State the requirements for the pilot of an aircraft, being flown for the purpose of demonstrating eligibility for the issue of an airworthiness certificate. CAR Part 91
 
+***91.101 Aircraft airworthiness***
+*(a) Except as provided in paragraph (c), Part 103, and Part 106, a person must not operate an aircraft unless—*
+	*(1) the aircraft—*
+	*(i) has a current airworthiness certificate; and*
+	*(ii) is in an airworthy condition; or*
+	*(2) the aircraft is operated in accordance with a special flight permit issued in accordance with Part 21.*
+*(b) A person operating an aircraft that has an airworthiness certificate or a special flight permit as required in paragraph (a) must comply with—*
+	*(1) any operating limitations issued with the airworthiness certificate or special flight permit; and*
+	*(2) the markings and placards that are required by the Civil Aviation Rules to be displayed in the aircraft.*
+*(c) A person may operate an aircraft that does not have a current airworthiness certificate for the purpose of demonstrating the eligibility of the aircraft for the issue, renewal, or reinstatement of an airworthiness certificate if—*
+	*(1) a type certificate or type acceptance certificate for the aircraft type is in force in accordance with Subpart B of Part 21; and*
+	*(2) the aircraft complies with the requirements prescribed in rule 21.191; and*
+	*(3) a person meeting an applicable requirement in rule 43.101(a)(1) to (5) certifies that the aircraft is fit for flight; and*
+	*(4) the pilot-in-command is the holder of an appropriate, current pilot licence and type rating or a validation permit, issued in accordance with Part 61 for the aircraft; and*
+	*(5) no other person is carried unless that person performs an essential function in connection with the operation.*
+
+##### 16.30.36 State the requirements for wearing/holding identity documentation in certain areas. CAR Part 139**
+
+***139.209 Airport Identity Cards***
+*(a) The Director may issue or approve an airport identity card or other identity document in accordance with this rule if—*
+	*(1) the Director has, in accordance with the Act, made a favourable security check determination of the person who has applied for the card or document; or*
+	*(2) the Director has decided that the person has undergone an alternative security check that is acceptable to the Director.*
+*(b) Subject to paragraphs (c) and (g), a person must not enter or remain in any airside security area or security enhanced area of any designated aerodrome or designated installation, unless that person—*
+	*(1) wears an airport identity card on the front of their outer garment; or*
+	*(2) has in their possession another identity document or other identity documents for the time being authorised under paragraph (a).*
+*(c) Where the Director considers it desirable that the name of the holder of an airport identity card be not disclosed, the Director may approve the wearing of an identity card from which the holder’s name has been deleted.*
+*(d) A person who is authorised by this rule to enter an airside security area or security enhanced area must remain in that area only for the purposes of their duties.*
+*(e) If required to do so by an authorised security person, any person entering or in an airside security area or security enhanced area must produce for inspection their airport identity card or other identity documents for the time being authorised under paragraph (a).*
+*(f) If the holder of an airport identity card ceases to be employed in a position for which the card is required, or for any other reason ceases to be entitled to hold the card, the holder must return the card to the issuing authority as soon as possible.*
+*(g) Nothing in paragraph (b) applies to—*
+	*(1) any member of the crew of an aircraft engaged in an international service who wears on their outer garment an official identity card issued by their employer or the government of the state in which they permanently reside; or*
+	*(2) any official of a New Zealand government agency who is required, by reason of their official duties, to remain incognito; or*
+	*(3) any passenger who enters or leaves an airside security area or security enhanced area for the purpose of joining or leaving a flight, if they are in possession of a valid boarding pass for that flight or is being escorted by a crew member or a representative of the operator; or*
+	*(4) any pilot-in-command of an aircraft on private operations who enters or is within an airside security area or security enhanced area for the purpose of embarking, disembarking, or servicing the aircraft, if the pilot has in their possession a valid pilot licence, or any person being escorted by the pilot.*
+*(h) The security checks referred to in rule 139.209(a)(1) and (2) are not required if the person making an application for an identity card is issued with a temporary identity card approved by the Director that entitles the person to enter and remain in an airside security area or security enhanced area when escorted by a person issued with an airport identity card in accordance with the security check process referred to in rule 139.209(a)(1) and (2).*
 
 #### 16.32 General Operating Restrictions
 
-**16.32.2 State the restrictions on smoking in an aircraft. CA Act 2023 section 402**
+##### 16.32.2 State the restrictions on smoking in an aircraft. CA Act 2023 section 402
 
+***402 No smoking***
+*(1) No person may smoke—*
+	*(a) when instructed not to smoke by a crew member, passenger information signs, or placards; or*
+	*(b) while on any aircraft that is carrying passengers for hire or reward on any internal flight; or*
+	*(c) while on any aircraft operated by a New Zealand international airline carrying passengers on any route.*
+*(2) A person who breaches subsection (1) commits an infringement offence and is liable to—*
+	*(a) an infringement fee of $500; or*
+	*(b) a fine imposed by a court not exceeding $2,500.*
+*(3) In this section,—*
+	***internal flight** has the same meaning as in section 2(1) of the Smokefree Environments and Regulated Products Act 1990*
+	***New Zealand international airline** has the meaning given in section 174*
+	***to smoke** means to smoke, hold, or otherwise have control over an ignited product, weed, or plant, and includes to vape, and smoke, smoked, and smoking have corresponding meanings*
 
-**16.32.4 State the restrictions associated with the abuse of drugs and alcohol. CAR Part 91 and CAR 19**
+##### 16.32.4 State the restrictions associated with the abuse of drugs and alcohol. CAR Part 91 and CAR Part 19
 
+***91.118 Intoxicating liquor and drugs***
+*No crew member while acting in their official capacity may be in a state of intoxication or in a state of health in which their capacity so to act would be impaired by reason of them having consumed or used any intoxicant, sedative, narcotic, or stimulant drug or preparation.*
 
-**16.32.6 State the restrictions on the use of portable electronic devices in flight. CAR Part 91**
+##### 16.32.6 State the restrictions on the use of portable electronic devices in flight. CAR Part 91
 
+***91.7 Portable electronic devices***
+*(a) A person must not operate, and an operator or pilot-in-command of an aircraft must not allow the operation of, any cellphone or other portable electronic device that is designed to transmit electromagnetic energy, on any aircraft while that aircraft is operating under IFR.*
+*(b) Except as provided in paragraph (c), a person must not operate, and an operator or pilot-in-command of an aircraft must not allow the operation of, any portable electronic device on any aircraft flying under IFR during an instrument approach or departure procedure or during any other critical phase of flight.*
+*(c) Paragraph (b) does not apply to-*
+	*(1) hearing aids;*
+	*(2) heart pacemakers;*
+	*(3) portable voice recorders;*
+	*(4) electric shavers;*
+	*(5) electronic watches; or*
+	*(6) any other portable electronic device if the operator of the aircraft has determined that the portable electronic device to be operated will not cause interference with any aircraft system or equipment in the aircraft on which it is operated.*
+*(d) In the case of—*
+	*(1) an aircraft being operated on air transport operations, the determination required by paragraph (c)(6) must be made by the operator of the aircraft on which the particular device is to be used; and*
+	*(2) any other aircraft, the determination required by paragraph (c)(6) may be made by the pilot-in-command or the operator of the aircraft on which the particular device is to be used.*
 
-**16.32.8 State the restrictions on the carriage and discharge of firearms on aircraft. CAR Part 91**
+##### 16.32.8 State the restrictions on the carriage and discharge of firearms on aircraft. CAR Part 91
 
+***91.9 Carriage and discharge of firearms***
+*(a) Except as otherwise provided in the Act or in paragraphs (c) and (e), a person must not—*
+	*(1) carry a firearm in an aircraft; or*
+	*(2) cause a firearm to be carried in an aircraft; or*
+	*(3) permit a firearm to be carried in an aircraft.*
+*(b) Except as provided in paragraph (d) a person must not discharge a firearm while on board an aircraft.*
+*(c) A firearm may be carried in an aircraft if—*
+	*(1) the firearm—*
+		*(i) is stowed in a place that is inaccessible to every person during flight; and*
+		*(ii) is disabled; or*
+	*(2) the aircraft is being used solely for the carriage of the person or group of persons associated with the firearm; and—*
+		*(i) the operator permits the carriage of the firearm; and*
+		*(ii) the firearm is disabled; or*
+	*(3) the aircraft is carrying livestock and the operator considers it may be necessary to immobilise livestock for the safety of the aircraft or its occupants; or*
+	*(4) the aircraft is being used for the purpose of shooting or immobilising animals on the ground if—*
+		*(i) the firearm is not loaded until the aircraft is in the area within which the firearm is intended to be discharged; and*
+		*(ii) the aircraft carries only those persons performing an essential function associated with the operation of the aircraft or the shooting or immobilisation of animals on the ground.*
+*(d) A firearm may be discharged—*
+	*(1) in an aircraft carrying livestock if a crew member considers it necessary to immobilise livestock for the safety of the aircraft or its occupants; or*
+	*(2) from an aircraft for the purpose of shooting or immobilising animals on the ground if—*
+		*(i) the discharge of the firearm does not pose a hazard or cause injury or damage to persons or property on the ground; and*
+		*(ii) the firearm is not discharged over any congested area of a city, town, or settlement or over any open air assembly of persons.*
+*(e) A firearm may be carried in an aircraft by a person employed by the police, another law enforcement agency, or a military service if—*
+	*(1) the aircraft is being operated on an air transport or commercial transport operation, carrying fare paying passengers and the person carrying the firearm—*
+		*(i) is lawfully entitled to carry a firearm in the course of their duties; and*
+		*(ii) is carrying the firearm in the course of their duties; and*
+		*(iii) has been approved to carry the firearm on the aircraft by the Director under paragraph (f); and*
+		*(iv) complies with any conditions or restrictions imposed by the Director under paragraph (f); or*
+	*(2) the aircraft is being operated solely for the carriage of constables (see ss4 and 117 of the Policing Act 2008) , law enforcement officers, members of the New Zealand Defence Force, members of a visiting force (as defined in s4 of the Visiting Forces Act 2004) and persons under the care of such officers or personnel, and the firearm is unloaded; or*
+	*(3) the aircraft is being operated for a police, law enforcement, or military operation, and only persons performing an essential function associated with the police, law enforcement, or military operation, or the operation of the aircraft, are carried in the aircraft.*
+*(f) Upon application from the Commissioner of Police, the head of any other law enforcement agency, or the Chief of the Defence Force, the Director—*
+	*(1) may approve a constable, a law enforcement officer, or a military service person to carry a firearm in an aircraft that is being operated on an air transport or commercial transport operation, carrying fare paying passengers, if the Commissioner of Police and the operator concerned consent to the carriage of a firearm in the aircraft; and*
+	*(2) may impose such conditions or restrictions as the Director considers appropriate; and*
+	*(3) must advise the applicant, the operator, and the Commissioner of Police of the decision.*
+*(g) Unless otherwise determined by the Director, an application for approval under paragraph (f) must be made, to the Director at least one working day before the air transport or commercial air transport operation is intended to commence.*
+*(h) Before the commencement of an air operation where a firearm will be carried in an aircraft by a person under paragraph (e)(1), the operator must inform the pilot-in-command of the number of persons carrying firearms and their position in the aircraft.*
 
-**16.32.10 Explain the restrictions on stowage of carry-on baggage. CAR Part 91**
+##### 16.32.10 Explain the restrictions on stowage of carry-on baggage. CAR Part 91
 
+***91.213 Carry-on baggage***
+*A person operating an aircraft, other than a balloon, must ensure that, before take-off or landing, all passenger baggage aboard the aircraft is stowed away—*
+*(1) in a baggage locker; or*
+*(2) under a passenger seat in such a way that it cannot—*
+	*(i) slide forward under crash impact; or*
+	*(ii) hinder evacuation of the aircraft in the event of an emergency.*
 
-**16.32.12 Explain the restrictions on the carriage of cargo. CAR Part 91**
+##### 16.32.12 Explain the restrictions on the carriage of cargo. CAR Part 91
 
+***91.215 Carriage of cargo***
+*(a) An operator must not permit cargo to be carried in an aircraft unless it is—*
+	*(1) carried on a seat, in a cargo rack or bin, or in a cargo or baggage compartment; and*
+	*(2) properly secured by a safety belt or other restraining device having enough strength to ensure that the cargo does not shift under all normally anticipated flight and ground conditions; and*
+	*(3) packaged and covered to avoid injury to passengers.*
+*(b) An operator who permits the carriage of cargo in an aircraft must not permit cargo—*
+	*(1) to exceed the load limitation for the seats, berths, or floor structure as prescribed by the aircraft flight manual, or by placards; or*
+	*(2) to be located in a position that restricts the access to or use of any required emergency exit, or the use of the aisle between the crew and the passenger compartments.*
 
-**16.32.14 State the restrictions applicable to aircraft flying near other aircraft. CAR Part 91**
+##### 16.32.14 State the restrictions applicable to aircraft flying near other aircraft. CAR Part 91
 
+***91.227 Operating near other aircraft***
+*A pilot must not operate an aircraft—*
+*(1) so close to another aircraft as to create a collision hazard; or*
+*(2) in formation flight except by prior arrangement with the pilot-in-command of each aircraft in the formation; or*
+*(3) in formation flight while carrying passengers for hire or reward unless the requirements of paragraph (2) are met and the pilot is performing—*
+	*(i) a parachute-drop aircraft operation; or*
+	*(ii) an adventure aviation formation flight operation under the authority of an adventure aviation operator certificate issued by the Director under the Act and Part 115.*
 
-**16.32.16 State the restrictions on the dropping of objects from an aircraft in flight. CAR Part 91**
+##### 16.32.16 State the restrictions on the dropping of objects from an aircraft in flight. CAR Part 91
 
+***91.235 Dropping of objects***
+*A pilot of an aircraft must not allow any object to be dropped from that aircraft in flight unless the pilot has taken reasonable precautions to ensure the dropping of the object does not endanger persons or property.*
 
-**16.32.18 State the speed limitation on aircraft operating under VFR. CAR Part 91**
+##### 16.32.18 State the speed limitation on aircraft operating under VFR. CAR Part 91
 
+***91.237 Aircraft speed***
+*(a) Except as provided in paragraph (b), a pilot must not operate an aircraft at an indicated speed of more than 250 kts below an altitude of 10 000 feet AMSL when—*
+	*(1) that aircraft is operated IFR in Class D, E, F, or G airspace; or*
+	*(2) that aircraft is operated VFR in Class C, D, E, F, or G airspace.*
+*(b) Paragraph (a) does not apply when—*
+	*(1) the minimum safe speed of the aircraft prescribed in the flight manual is more than 250 kts and the aircraft is operated at that minimum safe speed; or*
+	*(2) the aircraft is being operated at an aviation event in accordance with 91.703.*
 
-**16.32.20 State the minimum heights for VFR flights (A) or (H) under CAR Part 91.**
+##### 16.32.20 State the minimum heights for VFR flights (A) or (H) under CAR Part 91.**
 
+***91.311 Minimum heights for VFR flights***
+*(a) A pilot-in-command of an aircraft must not operate the aircraft under VFR—*
+	*(1) over any congested area of a city, town, or settlement, or over any open air assembly of persons at a height of less than 1000 feet above the surface or any obstacle that is within a horizontal radius of 600 metres from the point immediately below the aircraft; or*
+	*(2) over any other area—*
+		*(i) at a height of less than 500 feet above the surface; or*
+		*(ii) at a height of less than 500 feet above any obstacle, person, vehicle, vessel, or structure that is within a horizontal radius of 150 metres from the point immediately below the aircraft; and*
+	*(3) for any operation, at a height less than that required to execute an emergency landing in the event of engine failure without hazard to persons or property on the surface.*
+*(b) Paragraph (a) does not apply to a pilot-in-command of an aircraft—*
+	*(1) conducting a take-off or landing; or*
+	*(2) conducting a balked landing or discontinued approach; or*
+	*(3) taxiing.*
+*(c) Paragraph (a)(2) does not apply to a pilot-in-command of an aircraft if the bona fide purpose of the flight requires the aircraft to be flown at a height lower than that prescribed in paragraph (a)(2), but only if—*
+	*(1) the flight is performed without hazard to persons or property on the surface; and*
+	*(2) only persons performing an essential function associated with the flight are carried on the aircraft; and*
+	*(3) the aircraft is not flown at a height lower than that required for the purpose of the flight; and*
+	*(4) the horizontal distance that the aircraft is flown from any obstacle, person, vessel, vehicle, or structure is not less than that necessary for the purpose of the flight, except that in the case of an aeroplane, the aeroplane remains outside a horizontal radius of 150 metres from any person, vessel, vehicle, or structure that is not associated with the operation.*
+*(d) Paragraph (a)(2) does not apply to a pilot-in-command—*
+	*(1) who is the holder of, or authorised by the holder of, a current instructor rating issued under Part 61 and who is conducting flight training or practice flights consisting of—*
+		*(i) simulated engine failure after take-off commencing below 1000 feet above the surface; or*
+		*(ii) simulated engine failure commencing above 1000 feet above the surface provided that descent below 500 feet above the surface is conducted within a low flying zone in accordance with rule 91.131; or*
+	*(2) who is the holder of a current instrument rating issued under Part 61 and who is conducting IFR training, testing, or practice flights under VFR, but only if the pilot-in-command conducts the flight in accordance with rules 91.413, 91.423 and 91.425; or*
+	*(3) operating an aircraft within a low flying zone in accordance with rule 91.131; or*
+	*(4) operating an aircraft at an aviation event in accordance with rule 91.703.*
 
-**16.32.22 State the restrictions when operating VFR in icing conditions. CAR Part 91**
+##### 16.32.22 State the restrictions when operating VFR in icing conditions. CAR Part 91
 
+***91.315 Operating in snow and ice conditions***
+*A pilot-in-command of an aircraft must not perform a take-off under VFR in an aircraft that has snow, ice, or frost, adhering to the wings, stabilisers, or control surfaces.*
 
-**16.32.24 State the restrictions applicable to operating an aircraft in aerobatic flight. CAR Part 91**
+##### 16.32.24 State the restrictions applicable to operating an aircraft in aerobatic flight. CAR Part 91
 
+***91.701 Aerobatic flight***
+*(a) Except as provided in paragraph (e), a pilot-in-command must not operate an aircraft in aerobatic flight—*
+	*(1) over an area that is within a horizontal distance of 600 metres of a congested area of a city, town, or settlement; or*
+	*(2) over an area that is within a horizontal distance of 600 metres of an open air assembly of persons; or*
+	*(3) within any controlled airspace except with the authorisation of ATC.*
+*(b) Except as provided in paragraphs (c) and (f), a pilot-in-command must not operate an aircraft in aerobatic flight below a height of 3000 feet above the surface.*
+*(c) A pilot-in-command may operate an aircraft in aerobatic flight below a height of 3000 feet above the surface—*
+	*(1) but not less than 1500 feet above the surface if the pilot holds an aerobatic rating issued in accordance with Part 61; and*
+	*(2) below a height of 1500 feet above the surface if the pilot—*
+		*(i) holds an aerobatic rating issued in accordance with Part 61; and*
+		*(ii) does not perform aerobatic flight below the height authorised in their aerobatic rating; and*
+		*(iii) is participating in an aviation event.*
+*(d) A pilot-command must not operate an aircraft in aerobatic flight carrying a passenger unless─*
+	*(1) the pilot holds an aerobatic rating issued in accordance with Part 61; and*
+	*(2) the flight is conducted at a height not less than 3000 feet above the surface.*
+*(e) A pilot-in-command may operate an aircraft in aerobatic flight over an area that is within a horizontal distance of 600 metres of spectators at an aviation event if the pilot is participating in that aviation event in accordance with rule 91.703.*
+*(f) A pilot of a glider may operate a glider in aerobatic flight below a height of 3000 feet above the surface without holding an aerobatic rating issued in accordance with Part 61 if—*
+	*(1) the aerobatic flight is for the purpose of spin training; and*
+	*(2) the flight is conducted at a height not less than 1000 feet above the surface.*
 
-**16.32.26 State the restrictions applicable to parachute-drop operations. CAR Part 91**
+##### 16.32.26 State the restrictions applicable to parachute-drop operations. CAR Part 91
 
+***91.705 Parachute-drop operations***
+*(a) A pilot-in-command of an aircraft performing a parachute-drop operation must hold a parachute-drop rating issued by the Dirctor under the Act and Part 61.*
+*(b) An operator of an aircraft performing a parachute-drop operation must ensure that—*
+	*(1) the aircraft used to perform the operation has a valid standard category airworthiness certificate; and*
+	*(2) the configuration of the aircraft is appropriate for the parachutedrop operation; and*
+	*(3) the aircraft has adequate interior room and satisfactory egress for each parachutist to be carried; and*
+	*(4) the aircraft cabin has no handles or fittings which could cause the inadvertent opening of a parachute in the aircraft or during egress by any parachutist; and*
+	*(5) suitable points on the aircraft are used for the attachment of static lines; and*
+	*(6) the aircraft flight manual authorises flight with a door removed, or open, in flight; and*
+*(c) A pilot-in-command of an aircraft performing a parachute-drop operation must ensure that—*
+	*(1) each person carried in the aircraft, other than a person intending to make a parachute descent, —*
+		*(i) occupies a seat and fastens their safety belt during take-off and landing; and*
+		*(ii) wears an emergency or reserve parachute assembly; and*
+		*(iii) is trained in the use of the emergency or reserve parachute assembly; and*
+		*(iv) is briefed on the general procedures to be followed in an aircraft emergency including the method to be used for exiting the aircraft; and*
+	*(2) each person carried in the aircraft who intends to make a parachute descent —*
+		*(i) is not in a position in the aircraft that could hazard the safety of the operation or the aircraft occupants through inadvertent interference with the controls; and*
+		*(ii) is briefed on the general procedures to be followed in an aircraft emergency including the method to be used for exiting the aircraft.*
+*(d) A pilot-in-command of an aircraft performing a parachute-drop operation must not permit a person to make a parachute descent from the aircraft, unless—*
+	*(1) the person or persons making the descent have provided the pilot with the details of the proposed descent prior to take-off; and*
+	*(2) the pilot is satisfied that each person’s descent is—*
+		*(i) authorised by a parachute organisation; or*
+		*(ii) authorised by a holder of an adventure aviation operator certificate issued by the director under the Act and Part 115 if the certificate authorises tandem parachute operations; or*
+		*(iii) approved by the Director.*
 
-**16.32.28 State the restrictions applicable to aircraft towing gliders. CAR Part 91**
+##### 16.32.28 State the restrictions applicable to aircraft towing gliders. CAR Part 91
 
+***91.709 Towing gliders***
+*(a) A person must not tow a glider in flight unless that person holds a glider tow rating issued under Part 61.*
+*(b) A person must not tow a glider in flight unless—*
+	*(1) the aircraft used for towing is operated at airspeeds below the maximum airspeed specified for aero-tow in the glider flight manual; and*
+	*(2) the towing load does not exceed the maximum load specified in the aircraft flight manual; and*
+	*(3) the person has checked the operation of the tow hook of the aircraft to be used before the flight; and*
+	*(4) the person uses the take-off, glider release, airspeed, and emergency signals established by a gliding organisation for the pilots of tow aircraft and gliders; and*
+	*(5) the take-off distance to clear a 50 foot obstacle with the glider in tow does not exceed 85% of the take-off run available; and*
+	*(6) the aircraft is capable of maintaining a rate of climb of at least 200 feet per minute at 1000 feet above the aerodrome with the glider in tow.*
+*(c) A person must not operate an aircraft to tow a glider in flight unless—*
+	*(1) the aircraft to be used is equipped with—*
+		*(i) a tow hook and attachment assembly; and*
+		*(ii) a pilot-activated quick release capable of releasing the tow line from the tow hook with the glider in tow and while the tow aircraft is in flight; and*
+	*(2) the tow line to be used meets the requirements of Appendix A.26; and*
+	*(3) if more than one glider is being towed, the tow lines to be used are—*
+		*(i) one for each glider; and*
+		*(ii) of a length that provides a distance of not less than 50 m between any glider and the towing aircraft; and*
+		*(iii) of a length that provides a trailing separation of not less than 30 m between each glider; and*
+		*(iv) attached by a single tow ring to the aircraft, and capable of separation on release from the aircraft.*
+*(d) Paragraphs (a), (b), and (c) do not apply to the towing of a hang glider in flight.*
 
-**16.32.30 State the restrictions applicable to aircraft towing objects other than gliders. CAR Part 91**
+##### 16.32.30 State the restrictions applicable to aircraft towing objects other than gliders. CAR Part 91
+
+***91.711 Towing objects other than gliders***
+*(a) A pilot must not tow an object other than a glider in flight unless—*
+	*(1) they hold—*
+		*(i) a private pilot licence and a tow rating issued under Part 61; or*
+		*(ii) a commercial pilot licence issued under Part 61; or*
+		*(iii) an airline transport pilot licence issued under Part 61; and*
+	*(2) the aircraft—*
+		*(i) is equipped with a tow hook and attachment assembly which has a quick release mechanism; and*
+		*(ii) has a positive rate of climb at the altitudes to be operated.*
+*(b) A pilot operating an aircraft that is towing an object other than a glider must not carry any passengers*.
+
 #### 16.34 General Meteorological Requirements and Restrictions
 
-**16.34.2 State the met minima for VFR flight (A) or (H) in various airspace. CAR Part 91**
-**16.34.4 State the restrictions and met minima for Special VFR flight (A) or (H). CAR Part 91**
+##### 16.34.2 State the met minima for VFR flight (A) or (H) in various airspace. CAR Part 91
+
+***91.301 VFR meteorological minima***
+*(a) Except as provided in rule 91.303, and paragraphs (b) and (c), a pilotin- command must not operate an aircraft under VFR—*
+	*(1) when the flight visibility is less than that prescribed for the corresponding class of airspace in Table 4; or*
+	*(2) at a distance from clouds that is less than that prescribed for the corresponding class of airspace in Table 4.*
+*(b) Except as provided in rule 91.303, a pilot-in-command must not perform a take-off or landing in an aircraft, or fly in the vicinity of an aerodrome, under VFR when the flight visibility, or the cloud ceiling, is less than—*
+	*(1) at aerodromes within a control zone, that prescribed in Table 5; and*
+	*(2) at aerodromes in uncontrolled airspace, that prescribed in Table 6.*
+*(c) A pilot-in-command of—*
+	*(1) a helicopter may operate in Class G airspace with a flight visibility of less than 5 km if manoeuvred at a speed that gives adequate opportunity to observe other traffic or any obstructions in order to avoid collisions; and*
+	*(2) an aircraft performing agricultural aircraft operations, may operate in Class G airspace with a flight visibility of less than 5 km but not less than 1500 m; and*
+	*(3) an aircraft performing flight instruction may operate within a designated low flying zone prescribed under Part 71 with a flight visibility of less than 5 km but not less than 1500 m.*
+
+***Table 4. Airspace VFR meteorological minima***
+
+| Class of airspace |                                                                                   | Distance from cloud                                                                                     | Flight visibility                                             |
+| ----------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| B                 |                                                                                   | Clear of cloud                                                                                          | 8 km at or above 10 000 feet AMSL 5 km below 10 000 feet AMSL |
+| C, D, and E       |                                                                                   | 2 km horizontally 1000 feet vertically outside a control zone 500 feet vertically within a control zone |                                                               |
+| F and G           | Above 3000 feet AMSL or 1000 feet above terrain whichever is the higher           | 2 km horizontally 1000 feet vertically                                                                  |                                                               |
+|                   | At or below 3000 feet AMSL or 1000 feet above the terrain whichever is the higher | Clear of cloud and in sight of the surface                                                              | 5km                                                           |
+
+***Table 5. VFR minima at aerodromes within a control zone***
+
+|              |               | Ceiling   | Flight visibility |
+| ------------ | ------------- | --------- | ----------------- |
+| All aircraft | Day and Night | 1500 feet | 5 km              |
+
+***Table 6. VFR minima at aerodromes in uncontrolled airspace***
+
+|              |       | Ceiling   | Flight visibility |
+| ------------ | ----- | --------- | ----------------- |
+| All aircraft | Day   | 600 feet  | 1500 m            |
+| All aircraft | Night | 1500 feet | 8 km              |
+
+##### 16.34.4 State the restrictions and met minima for Special VFR flight (A) or (H). CAR Part 91
+
+***91.303 Special VFR weather minima***
+*A pilot-in-command of an aircraft may perform a VFR operation within a control zone in meteorological conditions below those prescribed in rule 91.301 if—*
+*(1) the ceiling and flight visibility is—*
+	*(i) at least 600 feet and at least 1500 m respectively; or*
+	*(ii) for helicopters, less than 600 feet and less than 1500 m respectively if the helicopter is operated at a speed that will give adequate opportunity to observe other traffic or any obstructions in order to avoid collisions; and*
+*(2) the aircraft is equipped with two-way radio capable of communicating with ATC on the appropriate frequency; and*
+*(3) the operation is conducted—*
+	*(i) in compliance with an ATC clearance and any ATC instructions; and*
+	*(ii) only during the day; and*
+	*(iii) clear of clouds.*
+
 #### 16.36 Carriage of Dangerous Goods
 
-**16.36.2 Describe the limitation of CAR Part 92 with respect to members of the Police.**
+##### 16.36.2 Describe the limitation of CAR Part 92 with respect to members of the Police.
+
+***92.11 Exceptions***
+*(a) A member of the Police may carry dangerous goods in an aircraft in the course of that person’s duties without complying with this Part if the aircraft is performing an operation solely for Police purposes.*
+
+##### 16.36.4 Describe the allowance for the carriage of dangerous good for the recreational use of passengers. CAR Part 92
 
 
-**16.36.4 Describe the allowance for the carriage of dangerous good for the recreational use of passengers. CAR Part 92**
+
+##### 16.36.6 State the restriction for the carriage of dangerous goods in an aircraft cabin occupied by passengers, or on the flight deck of an aircraft. CAR Part 92
 
 
-**16.36.6 State the restriction for the carriage of dangerous goods in an aircraft cabin occupied by passengers, or on the flight deck of an aircraft. CAR Part 92**
+##### 16.36.8 State the requirements for the carriage of non-dangerous goods in an aircraft. CAR Part 92
 
 
-**16.36.8 State the requirements for the carriage of non-dangerous goods in an aircraft. CAR Part 92**
+##### 16.36.10 State the requirement for the notification of the pilot-in-command when dangerous goods are carried. CAR Part 92
 
 
-**16.36.10 State the requirement for the notification of the pilot-in-command when dangerous goods are carried. CAR Part 92**
+##### 16.36.12 State the requirement for a dangerous goods training programme. CAR Part 92
 
 
-**16.36.12 State the requirement for a dangerous goods training programme. CAR Part 92**
+##### 16.36.14 State the dangerous goods recurrent training programme requirements. CAR Part 92
 
 
-**16.36.14 State the dangerous goods recurrent training programme requirements. CAR Part 92**
-
-
-**16.36.16 State the requirement for the pilot-in-command and operator to inform ATS unit of carriage of dangerous goods. CAR Part 91**
+##### 16.36.16 State the requirement for the pilot-in-command and operator to inform ATS unit of carriage of dangerous goods. CAR Part 91
 
 #### 16.38 Helicopter External Load Operations (Helicopter candidates only)
 
@@ -1693,12 +2115,14 @@ State the meaning of the following abbreviations:
 16.38.42 Explain the requirements for the maintenance of external load equipment. CAR Part 133
 
 ## Air Operations
+
 #### 16.40 Air Operations Crew Requirements
 
 16.40.2 State the CAR Part 135 crew qualification and experience requirements.
 16.40.4 State the CAR Part 135 flight and duty time limitations on flight crew members.
 16.40.6 State the normal minimum rest period required following any duty period. AC119-2
 16.40.8 State the maximum number of flight hours that a pilot may fly as crew in an aircraft which carries two pilots on an internal air operation. AC119-2
+
 #### 16.42 Air Operations Requirements and Restrictions
 
 16.42.2 State the airworthiness requirements for aircraft used on air operations. CAR Part 135
@@ -1713,12 +2137,14 @@ State the meaning of the following abbreviations:
 16.42.20 State the restrictions on helicopter sling loads on an air operation. CAR Part 135 (Helicopter candidates only)
 16.44 Air Operations Meteorological Requirements and Restrictions
 16.44.2 State the CAR Part 135 meteorological conditions and requirements for an air operation under VFR.
+
 #### 16.46 Air Operations Performance Requirements
 
 16.46.2 State the CAR Part 135 performance requirements for take-off distance.
 16.46.4 State the CAR Part 135 performance requirements for landing distance.
 16.46.6 State the CAR Part 135 performance requirements for landing on wet and contaminated runways.
 16.46.8 State the meaning of a performance-class 1 helicopter. CAR Part 1 (Helicopter candidates only)
+
 ## Flight Planning and Preparation
 
 #### 16.50 Flight Preparation
@@ -1726,10 +2152,12 @@ State the meaning of the following abbreviations:
 16.50.2 Explain the requirements for the obtaining and considering relevant information prior to flight. CAR Part 91
 16.50.4 Describe the publications and their content that provide operational route and aerodrome information.
 16.50.6 Derive operational information from charts and publications that provide route and aerodrome information.
+
 #### 16.54 Fuel Requirements
 
 16.54.2 State the fuel reserve (A) or (H) required for a day VFR flight. CAR Part 91
 16.54.4 State the fuel reserve (A) or (H) required for a night VFR flight. CAR Part 91
+
 #### 16.56 Flight Plans
 
 16.56.2 State the CAR Part 135 requirements for the filing of a flight plan.
@@ -1737,10 +2165,13 @@ State the meaning of the following abbreviations:
 16.56.6 State the requirements for terminating a flight plan. CAR Part 91
 16.56.8 Describe the difference between ETA and SARTIME. CAR Part 91
 16.56.10 State the time search and rescue action would be initiated if a flight plan is not terminated before SARTIME. AIP ENR
+
 #### 16.58 Enroute Limitations
 
 16.58.2 State the CAR Part 135 enroute limitations for two engine aeroplanes. 
+
 ## Air Traffic Services
+
 #### 16.60 Communications
 
 16.60.2 Derive from operational publications, the required radio frequency for communicating with specified ATC units.
@@ -1751,12 +2182,14 @@ State the meaning of the following abbreviations:
 16.60.12 State the purpose of Aerodrome and Weather Information Broadcasts (AWIB). AIP GEN
 16.60.14 State the meaning of the various light signals from a control tower. CAR Part 91 & AIP AD
 16.60.16 State the communications requirements when TIBA procedures are in force. AIP ENR
+
 #### 16.62 Clearances
 
 16.62.2 State the requirements for complying with ATC clearances and instructions. CAR Part 91 & AIP ENR
 16.62.4 State the requirements for coordinating with an aerodrome flight information service. CAR Part 91
 16.62.6 State the requirements for receiving an ATC clearance prior to entering various types of airspace, and ground manoeuvring area. CAR Part 91 & AIP ENR
 16.62.8 State the requirements for receiving an ATC clearance prior to re-entering controlled airspace. CAR Part 91 & AIP ENR
+
 #### 16.63 Separation
 
 16.63.2 Describe the method of passing traffic information using the clock code.
@@ -1765,12 +2198,15 @@ State the meaning of the following abbreviations:
 16.63.8 Describe the normal separation standards applied by ATC. AIP ENR
 16.63.10 Describe the situations where the normal separation may be reduced. AIP ENR
 16.63.12 State the wake turbulence separation requirements for light aircraft in non-radar environment. AIP AD
+
 #### 16.66 Radar Services
 
 16.66.2 Describe the radar services available to VFR flights. AIP ENR
+
 #### 16.68 Reserved
 
 ## Airspace, Aerodromes and Heliports
+
 #### 16.70 Altimetry
 16.70.2 Explain the altimeter setting requirements for flight under VFR. CAR Part 91 & AIP ENR
 16.70.4 State the procedure to use to obtain an altimeter setting when QNH is not available
@@ -1782,11 +2218,13 @@ prior to take-off and the requirement to obtain a QNH once in flight. AIP ENR
 
 16.72.2 State the altitude requirements when cruising VFR within the New Zealand FIR. CAR Part 91 & AIP ENR
 16.72.4 Describe situations where ATC may assign cruising altitudes not in accordance with the VFR table of cruising altitudes. AIP ENR
+
 #### 16.74 Transponders
 
 16.74.2 State the requirements for the operation of transponders within the New Zealand FIR. CAR Part 91 & AIP ENR
 16.74.4 Describe the procedures required of pilots operating transponders. AIP ENR
 16.74.6 State the requirements and limitations on an aircraft operating under VFR in transponder mandatory airspace without an operating transponder. CAR Part 91 & AIP ENR
+
 #### 16.75 Airspace
 
 16.75.2 State the rules pertaining to operating VFR in the various classes of airspace. CAR Part 91 & AIP ENR
@@ -1805,6 +2243,7 @@ prior to take-off and the requirement to obtain a QNH once in flight. AIP ENR
 16.75.28 State the operating considerations relating to operating an aircraft in a common frequency zone (CFZ). AIP ENR
 16.75.30 State the operating considerations relating to operating an aircraft over or close to temporary hazards/airspace. AIP ENR
 16.75.32 Interpret airspace information on aeronautical charts used for VFR flights.
+
 #### 16.76 Aerodromes and Heliports
 
 16.76.2 Describe the limitations on the use of a place as an aerodrome or heliport. CAR Part 91
@@ -1813,6 +2252,7 @@ prior to take-off and the requirement to obtain a QNH once in flight. AIP ENR
 16.76.8 Describe the meaning of the various aerodrome ground signals.
 16.76.10 Interpret information on aerodrome/heliport charts. AIP GEN & AIP Volume 4
 16.76.12 Interpret runway, taxiway, apron, and stand signs and markings.
+
 #### 16.78 Aerodromes Lighting
 
 16.78.2 Describe the lighting intensity classifications.
@@ -1833,12 +2273,14 @@ prior to take-off and the requirement to obtain a QNH once in flight. AIP ENR
 (c) T-VASIS.
 
 ## Emergencies; Incidents; and Accidents
+
 #### 16.80 Responsibilities of Operators and Pilots
 
 16.80.2 State the requirement for the notification of accidents. CAR Part 12
 16.80.4 State the requirement for the notification of incidents. CAR Part 12
 16.80.6 State the extent to which a pilot may deviate from the CA Act or rules in an emergency situation. CA Act 2023 section 15(1) and 16(1) & (2)
 16.80.8 State the pilot action required following deviation from the CA Act or rules in an emergency situation. CA Act 2023 sections 15(2) and 16(3)
+
 #### 16.82 Communications and Equipment
 
 16.82.2 State the transponder code a pilot should set to indicate an emergency condition. AIP ENR
