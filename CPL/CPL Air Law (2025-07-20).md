@@ -2068,90 +2068,409 @@ State the meaning of the following abbreviations:
 
 ##### 16.36.4 Describe the allowance for the carriage of dangerous good for the recreational use of passengers. CAR Part 92
 
-
+***92.11 Exceptions***
+*(c) A person may offer or accept dangerous goods for carriage by air that are for the recreational use of a passenger without complying with this Part if—*
+	*(1) the dangerous goods are carried in an unpressurised aircraft that—*
+		*(i) has a MCTOW of 5700 kg or less; and*
+		*(ii) is on a domestic VFR flight; and*
+	*(2) the dangerous goods are not listed in the Dangerous Goods List in the Technical Instructions as being forbidden for carriage by air in an aircraft that carries passengers; and*
+	*(3) safety and emergency procedures for the carriage of the dangerous goods are established; and*
+	*(4) each item of dangerous goods is identified; and*
+	*(5) the pilot-in-command is informed of the hazardous nature of the goods; and*
+	*(6) the dangerous goods are—*
+		*(i) in a proper condition for carriage by air; and*
+		*(ii) segregated if they are likely to react dangerously together; and*
+		*(iii) stowed, secured, and, if necessary, packed, to prevent leakage or damage in flight; and*
+	*(7) the only passengers carried aboard the aircraft are passengers who are associated with the dangerous goods.*
 
 ##### 16.36.6 State the restriction for the carriage of dangerous goods in an aircraft cabin occupied by passengers, or on the flight deck of an aircraft. CAR Part 92
 
+***92.157 Aircraft loading restrictions***
+*(a) Except as provided in paragraph (b), an operator must not carry dangerous goods in an aircraft cabin occupied by passengers or on the flight deck of an aircraft.*
+*(b) An operator may—*
+	*(1) permit a passenger or crew member to carry dangerous goods in checked or carry on baggage or on their person if permitted to do so under the Technical Instructions; and*
+	*(2) permit carriage of radioactive material in an aircraft cabin occupied by passengers or on the flight deck of an aircraft if permitted to do so as an excepted package under the Technical Instructions; and*
+	*(3) if performing a domestic operation, carry the following dangerous goods in the cargo compartment of a passenger cabin, where the aircraft is not equipped with a class B cargo compartment:*
+		*(i) Class 1, Division 1.4 Compatibility Group S explosives:*
+		*(ii) Class 2, Division 2.2, non-flammable, non-toxic gas:*
+		*(iii) Class 3, flammable liquids, Packing Group III:*
+		*(iv) Class 4, Division 4.1, flammable solids, Packing Group III:*
+		*(v) Class 5, Division 5.1, oxidising substances, Packing Group III:*
+		*(vi) Class 6, Division 6.1, poisonous substances, Packing Group III:*
+		*(vii) Class 7, radioactive materials loaded in compliance with the minimum separation distances:*
+		*(viii) Class 8, Packing Group III substances:*
+		*(ix) Class 9, miscellaneous goods.*
+*(c) An operator may carry dangerous goods in a main deck cargo compartment of an aircraft that carries passengers if the compartment meets all certification requirements for a class B cargo or baggage compartment.*
+*(d) An operator who accepts dangerous goods for carriage by air must load packages of dangerous goods bearing the Cargo Aircraft Only label only on cargo aircraft.*
 
 ##### 16.36.8 State the requirements for the carriage of non-dangerous goods in an aircraft. CAR Part 92
 
+// TODO
 
 ##### 16.36.10 State the requirement for the notification of the pilot-in-command when dangerous goods are carried. CAR Part 92
 
+***92.173 Information to pilot-in-command***
+*(a) An operator of an aircraft in which dangerous goods are to be carried must, before the departure of the aircraft, provide the pilot-in- command of the aircraft with written information concerning those goods in accordance with the Technical Instructions.*
+*(b) The operator must ensure that the information in paragraph (a) is—*
+	*(1) readily available to the pilot-in-command during the flight; and*
+	*(2) presented on a dedicated form.*
+*(c) An operator of an aircraft in which dangerous goods are being carried that require a dangerous goods transport document to be completed under rule 92.105 must, before the departure of the aircraft, provide the pilot-in-command of the aircraft with information for use in emergency response to accidents and incidents involving the dangerous goods being carried.*
+*(d) The operator must ensure that the information required in paragraph (c) is readily available to the pilot-in-command during the flight.*
+*(e) The operator must ensure that the information required in paragraph (c) is that provided by—*
+	*(1) the current ICAO Doc 9481 Emergency Response Guidance for Aircraft Incidents Involving Dangerous Goods; or*
+	*(2) any other document which provides similar information concerning the dangerous goods being carried.*
 
 ##### 16.36.12 State the requirement for a dangerous goods training programme. CAR Part 92
 
+***92.203 Dangerous goods training programmes***
+*(a) A holder of an air operator certificate issued in accordance with Part 119, or the certificate holder’s handling agent must ensure that personnel who are assigned duties involving dangerous goods that are intended for carriage by air have satisfactorily completed a dangerous goods training programme, including recurrent training under rule 92.205, in accordance with Appendix A conducted by—*
+	*(1) the holder of an air operator certificate issued in accordance with Part 119 if the certificate authorises dangerous goods training; or*
+	*(2) the holder of an aviation training organisation certificate issued in accordance with Part 141 if the certificate authorises dangerous goods training.*
+*(b) A person, other than the holder of an air operator certificate or the certificate holder’s handling agent, must ensure that personnel assigned duties involving dangerous goods that are intended for carriage by air have satisfactorily completed a dangerous goods training programme, including recurrent training under rule 92.205 if applicable, in accordance with Appendix A conducted by—*
+	*(1) the holder of an aviation training organisation certificate issued in accordance with Part 141 if the certificate authorises dangerous goods training; or*
+	*(2) IATA; or*
+	*(3) an IATA authorised training centre; or*
+	*(4) if the personnel are AvSec personnel, AvSec.*
+*(c) An operator of a New Zealand registered aircraft in a foreign State is not required to comply with paragraph (a) if the loading and unloading of aircraft is performed by personnel of that State who—*
+	*(1) are supervised by a person who has completed the training requirements under rule 92.203; or*
+	*(2) have satisfactorily completed a dangerous goods training programme required by that State; or*
+	*(3) have satisfactorily completed a dangerous goods training programme conducted by—*
+		*(i) another operator that is a member airline of IATA; or*
+		*(ii) IATA itself; or*
+		*(iii) a training centre authorised by IATA.*
+*(d) An operator or handling agent of a foreign registered aircraft in New Zealand is not required to comply with paragraph (a) if the personnel who are assigned dangerous goods duties have satisfactorily completed a dangerous goods training programme required by the State of the aircraft’s registry.*
 
 ##### 16.36.14 State the dangerous goods recurrent training programme requirements. CAR Part 92
 
+***92.205 Recurrent training***
+*(a) A person who is required under rule 92.203 to have completed a dangerous goods training programme must—*
+*(1) within 2 years of completing the programme, undertake a recurrent dangerous goods training programme; and*
+*(2) repeat the recurrent dangerous goods training programme at intervals not exceeding 2 years.*
+*(b) If a person completes a training programme within 60 days before the date on which it is required, the person is deemed to have completed the training programme on the date that it is required.*
 
 ##### 16.36.16 State the requirement for the pilot-in-command and operator to inform ATS unit of carriage of dangerous goods. CAR Part 91
 
+***91.411A Pilot-in-command and operator to inform ATS unit of carriage of dangerous goods***
+*(a) If an in-flight emergency occurs, a pilot-in-command of an aircraft must, as soon as practicable, inform the appropriate ATS unit of the information referred to in rule 92.173(c) regarding any dangerous goods on board the aircraft.*
+*(b) The operator must, as soon as the operator is aware that an in-flight emergency has or might have occurred, inform the appropriate ATS unit of the information referred to in rule 92.173(c) regarding any dangerous goods on board the aircraft.*
+
 #### 16.38 Helicopter External Load Operations (Helicopter candidates only)
 
-16.38.2 State the definition of:
-(a) helicopter external load operation;
-(b) helicopter external load towing operation;
-(c) helicopter sling load operation; and, (d) OGE. CAR Part 133
-16.38.4 State the pilot licence requirements for performing a helicopter external load operation. CAR Part 133
-16.38.6 Describe the minimum height requirements when performing a helicopter external load operation. CAR Part 133
-16.38.8 State the restrictions on the carriage of persons inside a helicopter on a helicopter external load towing operation. CAR Part 133
-16.38.10 State the restrictions on the carriage of persons inside a helicopter on a helicopter sling load operation. CAR Part 133
-16.38.12 State the restrictions on the carriage of persons inside a helicopter on a winching, rappelling, or human sling load operation. CAR Part 133
-16.38.14 State the third-party risk restrictions when carrying a load suspended beneath a helicopter. CAR Part 133
-16.38.16 State the weight limitation for a helicopter performing a helicopter external load operation. CAR Part 133
-16.38.18 State the flight rules restriction for a helicopter performing a helicopter external load operation. CAR Part 133
-16.38.20 Describe the restrictions on helicopter external load operations at night. CAR Part 133
-16.38.22 Describe the flight characteristics requirements for a helicopter performing a helicopter external load operation. CAR Part 133
-16.38.24 Explain the requirements for performing a helicopter external load operation over congested areas. CAR Part 133
-16.38.26 Describe the general requirements for performing an operation involving the suspension of a person beneath a helicopter. CAR Part 133
-16.38.28 State the requirements for performing a helicopter winch operation. CAR Part 133
-16.38.30 State the requirements for the carriage of an injured person beneath a helicopter in a harness or stretcher. CAR Part 133
-16.38.32 State the requirements for performing a helicopter rappelling operation. CAR Part 133
-16.38.34 Explain the requirements for the carriage of a supplementary crew member on a helicopter performing a helicopter external load operation. CAR Part 133
-16.38.36 Explain the requirements for ensuring crew member competency to carryout winching, rappelling, or human sling load operations. CAR Part 133
-16.38.38 Describe the external load equipment requirements on a helicopter performing a helicopter external load operation. CAR Part 133
-16.38.40 Describe the requirements for quick release devices on a helicopter performing a helicopter external load operation. CAR Part 133
-16.38.42 Explain the requirements for the maintenance of external load equipment. CAR Part 133
+##### 16.38.2 State the definition of:
+
+**(a) helicopter external load operation;**
+
+**(b) helicopter external load towing operation;**
+
+**(c) helicopter sling load operation; and, (d) OGE. CAR Part 133**
+
+##### 16.38.4 State the pilot licence requirements for performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.6 Describe the minimum height requirements when performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.8 State the restrictions on the carriage of persons inside a helicopter on a helicopter external load towing operation. CAR Part 133
+
+##### 16.38.10 State the restrictions on the carriage of persons inside a helicopter on a helicopter sling load operation. CAR Part 133
+
+##### 16.38.12 State the restrictions on the carriage of persons inside a helicopter on a winching, rappelling, or human sling load operation. CAR Part 133
+
+##### 16.38.14 State the third-party risk restrictions when carrying a load suspended beneath a helicopter. CAR Part 133
+
+##### 16.38.16 State the weight limitation for a helicopter performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.18 State the flight rules restriction for a helicopter performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.20 Describe the restrictions on helicopter external load operations at night. CAR Part 133
+
+##### 16.38.22 Describe the flight characteristics requirements for a helicopter performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.24 Explain the requirements for performing a helicopter external load operation over congested areas. CAR Part 133
+
+##### 16.38.26 Describe the general requirements for performing an operation involving the suspension of a person beneath a helicopter. CAR Part 133
+
+##### 16.38.28 State the requirements for performing a helicopter winch operation. CAR Part 133
+
+##### 16.38.30 State the requirements for the carriage of an injured person beneath a helicopter in a harness or stretcher. CAR Part 133
+
+##### 16.38.32 State the requirements for performing a helicopter rappelling operation. CAR Part 133
+
+##### 16.38.34 Explain the requirements for the carriage of a supplementary crew member on a helicopter performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.36 Explain the requirements for ensuring crew member competency to carryout winching, rappelling, or human sling load operations. CAR Part 133
+
+##### 16.38.38 Describe the external load equipment requirements on a helicopter performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.40 Describe the requirements for quick release devices on a helicopter performing a helicopter external load operation. CAR Part 133
+
+##### 16.38.42 Explain the requirements for the maintenance of external load equipment. CAR Part 133
 
 ## Air Operations
 
 #### 16.40 Air Operations Crew Requirements
 
-16.40.2 State the CAR Part 135 crew qualification and experience requirements.
-16.40.4 State the CAR Part 135 flight and duty time limitations on flight crew members.
-16.40.6 State the normal minimum rest period required following any duty period. AC119-2
-16.40.8 State the maximum number of flight hours that a pilot may fly as crew in an aircraft which carries two pilots on an internal air operation. AC119-2
+##### 16.40.2 State the CAR Part 135 crew qualification and experience requirements.
+
+***135.503 Assignment of flight crew duties***
+*(a) A holder of an air operator certificate must ensure that every person assigned as a flight crew member on an air operation conducted under the authority of the certificate—*
+	*(1) holds a current pilot licence and rating appropriate to the category of aircraft and to the tasks assigned; and*
+	*(2) holds a current class 1 medical certificate appropriate to the task assigned; and*
+	*(3) meets all the experience, training, and competency requirements for the task assigned; and*
+	*(4) meets all route and aerodrome qualification requirements for the intended operation.*
+
+***135.505 Pilot-in-command consolidation of operating experience on type***
+*(a) A holder of an air operator certificate must ensure that before designating a pilot to act as a pilot-in-command of an aircraft on an air operation conducted under the authority of the certificate, the pilot has completed the following consolidation of operating experience on the make and basic model of aircraft type:*
+	*(1) for a single engine aircraft, 5 hours flight time and 5 take-offs and landings:*
+	*(2) for a multi-engine aircraft, 10 hours flight time and 10 take-offs and landings:*
+	*(3) for a turbojet or turbofan aeroplane, 15 hours flight time and 10 take-offs and landings:*
+	*(4) for single pilot air operations under IFR or VFR at night, —*
+		*(i) 40 hours flight time on the aircraft type; or*
+		*(ii) for subsequent aircraft types of the same category, other than the initial aircraft type flown single pilot on air operations under IFR, or flown single pilot on air operations under VFR at night, the applicable flight time required by paragraphs (a)(1), (a)(2), or (a)(3).*
+*(b) Subject to paragraphs (c) and (d), after the pilot has completed aircraft type rating training, initial training required under rule 135.557 or transition training required under rule 135.559, and the competency check required under rule 135.607, the consolidation of operating experience required by paragraph (a) must be acquired as follows:*
+	*(1) in flight during air operations performed; and*
+	*(2) for an aircraft not previously used to perform an air operation under the authority of the holder’s air operator certificate, operating experience acquired in the aircraft type during proving flights or ferry flights may be used to meet this requirement; and*
+	*(3) while performing the duties of a pilot-in-command under the supervision of a designated pilot-in-command who must —*
+		*(i) be authorised in writing by the certificate holder to supervise a pilot undergoing consolidation of operating experience on the aircraft type; and*
+		*(ii) occupy a flight crew member seat while supervising; and*
+	*(4) for paragraph (a)(4)(i), the 40 hours flight time must include —*
+		*(i) for air operations under IFR, a minimum of 10 hours flight time on air operations conducted under IFR; or*
+		*(ii) for air operations under VFR at night, a minimum of 10 take-offs and landings at night; and*
+	*(5) the consolidation of operating experience required by paragraph (a) must be completed within 180 days from the successful completion of the competency check; and*
+	*(6) if the pilot fails to complete the applicable consolidation of operating experience on or before the 180th day as required in paragraph (5), the pilot must complete a competency check before recommencing the required consolidation of operating experience.*
+*(c) For the purpose of the pilot acquiring the operating experience required under paragraph (a) —*
+	*(1) the flight time and take-off and landing experience required in paragraphs (a)(1), (a)(2), and (a)(3) may be accrued in a flight simulator approved by the Director for the purpose; and*
+	*(2) if the time required by paragraph (a) is conducted in a single-pilot aircraft, the flight time must be entered as pilot-in-command under supervision in the pilot’s logbook and certified by the designated pilot-in-command who supervised the pilot performing the consolidation of operating experience.*
+	*(d) Paragraph (b)(1) does not apply if the aircraft is certificated for 2 or less passenger seats.*
+
+##### 16.40.4 State the CAR Part 135 flight and duty time limitations on flight crew members.
+
+***135.803 Operator responsibilities***
+*(a) A holder of an air operator certificate must not cause or permit an air operation to be performed with an aircraft unless—*
+	*(3) the scheme for commercial transport operations, complies with the following:*
+		*(i) flight crew must not fly in excess of 160 hours in any 30 consecutive days:*
+		*(ii) flight crew must have not less than 2 days free of duty in any 14 day period:*
+		*(iii) flight crew must have not less than 2 consecutive days free of duty in any 30 day period; and*
+
+##### 16.40.6 State the normal minimum rest period required following any duty period. AC119-2
+
+10 hours.
+
+***AC119-2 - General - Rest***
+- *When, at the end of a duty period, the requirements of two or more rest periods coincide, the longest rest period applicable in the particular circumstances shall be taken.*
+- *A tour of duty which includes a duty period exceeding 8 hours, including any time between midnight and 6 am local time (departure point) on two successive nights may not be flown by any flight crew member more often than once in any 7 consecutive days or more often than on two occasions in any 28-day period.*
+- *Any duty period shall be followed by a rest period of not less than 10 hours except where it is otherwise stated in this document.*
+
+##### 16.40.8 State the maximum number of flight hours that a pilot may fly as crew in an aircraft which carries two pilots on an internal air operation. 
+
+***AC119-2 - Internal Operations - Two-pilot crew - Flight time***
+*The pilot shall not be rostered to fly in excess of 8 hours in any one duty period. A duty period already commenced may be extended in flight time to 8 hours 30 minutes to complete a disrupted schedule.*
+*The pilot shall not fly, and an operator shall not roster the pilot to fly, in excess of:*
+	*(i) 35 hours in any 7 consecutive days:*
+	*(ii) 100 hours in any 28 consecutive days:*
+	*(iii) 300 hours in any 90 consecutive days.*
 
 #### 16.42 Air Operations Requirements and Restrictions
 
-16.42.2 State the airworthiness requirements for aircraft used on air operations. CAR Part 135
-16.42.4 State the CAR Part 135 minimum heights for VFR flights.
-16.42.6 State the CAR Part 135 operating restriction on single-engine air operations under IFR (SEIFR).
-16.42.8 State the requirement to keep a daily flight record. CAR Part 135
-16.42.10 State the CAR Part 135 requirement for a maintenance review.
-16.42.12 State the CAR Part 135 requirement for passenger safety and the carriage of certain passengers.
-16.42.14 State the CAR Part 135 restrictions when refuelling.
-16.42.16 State the CAR Part 135 restrictions on the manipulation of an aircraft’s controls.
-16.42.18 State the CAR Part 135 requirement for helicopter operations over congested areas. (Helicopter candidates only)
-16.42.20 State the restrictions on helicopter sling loads on an air operation. CAR Part 135 (Helicopter candidates only)
-16.44 Air Operations Meteorological Requirements and Restrictions
-16.44.2 State the CAR Part 135 meteorological conditions and requirements for an air operation under VFR.
+##### 16.42.2 State the airworthiness requirements for aircraft used on air operations. CAR Part 135
+
+***135.53 Aircraft airworthiness***
+*(a) Each holder of an air operator certificate must ensure that each aircraft it uses in conducting an air transport operation has a current standard category airworthiness certificate.*
+*(b) Each holder of an air operator certificate must ensure that each aircraft it uses in conducting a commercial transport operation has—*
+	*(1) a current standard category airworthiness certificate; or*
+	*(2) a current restricted category airworthiness certificate provided that the aircraft flight manual allows such an operation.*
+
+##### 16.42.4 State the CAR Part 135 minimum heights for VFR flights.
+
+Only below 500 feet not within 150 metres of a person, vessel, vehicle or structure. Briefs everyone.
+
+***135.85 Minimum height for VFR flights***
+*(a) Rule 91.311(c) does not apply to a pilot-in-command of an aircraft performing an air transport operation.*
+*(b) Notwithstanding rule 91.311(c)(4), a pilot-in-command of an aircraft performing a commercial transport operation may, if necessary for the proper accomplishment of the operation, conduct approaches, departures, and manoeuvres below a height of 500 feet above the surface within the horizontal radius of 150 metres of any person, vessel, vehicle, or structure if the pilot-in-command—*
+	*(1) prepares a plan for the operation in conjunction with every person and organisation involved in the operation; and*
+	*(2) takes reasonable care to conduct the operation without creating a hazard to any person or property; and*
+	*(3) briefs every person and organisation involved in the operation on the plan required by paragraph (b)(1).*
+
+##### 16.42.6 State the CAR Part 135 operating restriction on single-engine air operations under IFR (SEIFR).
+
+***135.81 Operations of single engine aircraft – IFR***
+*A person must not perform an air operation carrying passengers with a single-engine aircraft under IFR.*
+
+##### 16.42.8 State the requirement to keep a daily flight record. CAR Part 135
+
+***135.857 Daily flight record***
+*(a) A holder of an air operator certificate must keep accurate daily flight records for every aircraft, unless the information is recorded in another document in a manner that enables the daily flight record details for every flight to be constructed.*
+*(b) Daily flight records must contain the following details for every flight:*
+	*(1) the date of the flight:*
+	*(2) the name of the operator:*
+	*(3) the name of the pilot-in-command:*
+	*(4) the registration markings of the aircraft:*
+	*(5) the total flight time:*
+	*(6) the number of passengers:*
+	*(7) the type of air operation:*
+	*(8) the name or identification of the departure and destination aerodromes:*
+	*(9) the flight number or estimated time of departure:*
+	*(10) the total of, the empty weight of the aircraft, the weight of any removable equipment, the weight of consumables, and the weight of crew members:*
+	*(11) the total weight of—*
+		*(i) passengers; and*
+		*(ii) goods; and*
+		*(iii) baggage:*
+	*(12) the total weight of usable fuel:*
+	*(13) the take-off weight:*
+	*(14) evidence that the centre of gravity is within the specified limits:*
+	*(15) the maximum allowable weights for the operation, including zero fuel weight, take-off weight, and landing weight for the operation:*
+	*(16) an indication of the occasions when a more indicative weight is used under rule 135.303(f).*
+*(c) Before every air operation the holder of an air operator certificate must ensure that the information required in paragraphs (b)(11) to (b)(15) is made available to the pilot-in-command in a timely manner to enable the pilot to make the assessment required by rule 135.305(b) regarding the weight and balance of the aircraft.*
+
+##### 16.42.10 State the CAR Part 135 requirement for a maintenance review.
+
+***135.415 Maintenance review***
+*(a) A holder of an air operator certificate who, under rule 135.402(a), has identified in the appropriate maintenance programme that an aircraft is to be subject to a maintenance review must ensure that—*
+	*(1) the aircraft is not operated under the authority of the certificate unless a maintenance review of the aircraft has been carried out within the previous 12 months; and*
+	*(2) each maintenance review that is carried out is certified in accordance with paragraph (d).*
+*(b) Except as provided in paragraph (c), the holder of an air operator certificate must ensure that a maintenance review of an aircraft is not certified as having been carried out unless —*
+	*(1) the aircraft conforms to its type certificate data sheet or equivalent type data that is acceptable to the Director; and*
+	*(2) for an aircraft that is required by rule 91.509(b) to be fitted with a time-in-service recorder,—*
+		*(i) the time-in-service recorder reading is recorded in the appropriate maintenance logbook; and*
+		*(ii) the aircraft’s total time-in-service recorded in the technical log is compared with the time-in-service recorder reading; and*
+		*(iii) any discrepancy between the time-in-service figures referred to in paragraph (b)(2)(ii) is reported in accordance with rule 43.155(a)(4); and*
+	*(3) since the last maintenance review—*
+		*(i) every modification and repair has been correctly recorded and conforms to the applicable technical data listed in Appendix D of Part 21; and*
+		*(ii) due maintenance specified in the applicable maintenance programme for the aircraft has been completed within the time periods specified; and*
+		*(iii) every applicable airworthiness directive has been complied with in accordance with Part 39; and*
+	*(iv) every defect recorded in the technical log has been rectified or properly deferred in accordance with the procedures in the certificate holder’s exposition; and*
+	*(v) every applicable certification for release-to-service has been made in accordance with Subpart C of Part 43.*
+*(c) A holder of an airline air operator certificate may certify a maintenance review of an aircraft on the basis of continuing compliance with a programme acceptable to the Director if—*
+	*(1) the programme samples every requirement of paragraph (b) during the review period; and*
+	*(2) the maintenance review is individually certified for each of the certificate holder’s aircraft that are subject to a maintenance review.*
+*(d) The certificate holder must ensure that the person who carries out a maintenance review of an aircraft—*
+	*(1) is authorised by the certificate holder and has experience, that is at least equivalent to the experience required for the grant of an appropriate aircraft maintenance engineer licence rating, for the type of aircraft; and*
+	*(2) carries out the review in accordance with the applicable paragraph (b) or (c); and*
+	*(3) certifies that the maintenance review has been carried out by entering the following statement in the appropriate maintenance logbook with the person’s signature, authorisation number, and the date of entry:*
+		*The maintenance review of this aircraft and such of its equipment as is necessary for its continued airworthiness has been carried out in accordance with the requirements of Civil Aviation Rule 135.415.*
+
+##### 16.42.12 State the CAR Part 135 requirement for passenger safety and the carriage of certain passengers.
+
+***135.65 Passenger safety***
+*(a) Each person performing an air operation must ensure that—*
+	*(1) any passenger who appears to be under the influence of alcohol or drugs or exhibits behavioural characteristics, to the extent where the safety of the aircraft or its occupants is likely to be endangered, is refused embarkation or, where appropriate, removed from the aircraft; and*
+	*(2) disabled passengers are appropriately cared for, including allocation of appropriate seating positions and handling assistance in the event of an emergency; and*
+	*(3) escorted passengers do not constitute a safety hazard to other passengers or to the aircraft, and that prior arrangements for their carriage have been made in accordance with procedures in the certificate holder’s exposition.*
+*(b) Notwithstanding (a)(1), where an operation is conducted for the purpose of search and rescue or is an air ambulance operation, passengers may be carried who are under the influence of alcohol or drugs or exhibit behavioural characteristics to the extent where the safety of the aircraft or its occupants is likely to be endangered, provided that reasonable action is taken by the operator to minimise the risk to the aircraft and its occupants from such passengers.*
+
+##### 16.42.14 State the CAR Part 135 restrictions when refuelling.
+
+***135.73 Refuelling and defuelling operations***
+*(a) Despite the requirements of rule 91.15(3), a person operating an aircraft under the authority of an air operator certificate issued in accordance with Part 119 may refuel or defuel the aircraft with a Class 3.1C or a Class 3.1D flammable liquid when a person is embarking, on board, or disembarking the aircraft, if the person operating the aircraft ensures that safety and aircraft evacuation precautions are taken in accordance with procedures specified in the certificate holder’s exposition.*
+*(b) A person operating an aircraft under the authority of an air operator certificate issued in accordance with Part 119 may refuel or defuel the aircraft with a Class 3.1C or a Class 3.1D flammable liquid with one or more propulsion engines running if—*
+	*(1) the person ensures that safety and aircraft evacuation precautions are taken in accordance with procedures specified in the certificate holder’s exposition; and*
+	*(2) the pilot-in-command is responsible for every aspect of the fuelling operation.*
+
+##### 16.42.16 State the CAR Part 135 restrictions on the manipulation of an aircraft’s controls.
+
+***135.69 Manipulation of controls***
+*(a) Except as provided in paragraph (b), a person must not manipulate the controls of an aircraft performing an air operation.*
+*(b) A holder of an air operator certificate must take reasonable care to ensure that a person does not manipulate the flight controls of an aircraft performing an air operation under the authority of the certificate, unless the person is—*
+	*(1) a flight crew member; or*
+	*(2) an authorised representative of the Director who—*
+		*(i) has the permission of the certificate holder and the pilot-in- command; and*
+		*(ii) is performing a required duty.*
+
+##### 16.42.18 State the CAR Part 135 requirement for helicopter operations over congested areas. (Helicopter candidates only)
+
+*N/A*
+
+##### 16.42.20 State the restrictions on helicopter sling loads on an air operation. CAR Part 135 (Helicopter candidates only)
+
+*N/A*
+
+#### 16.44 Air Operations Meteorological Requirements and Restrictions
+
+##### 16.44.2 State the CAR Part 135 meteorological conditions and requirements for an air operation under VFR.
+
+***135.155 Meteorological conditions – VFR flight***
+*(a) A person performing an air operation must ensure that a VFR flight is not commenced unless current meteorological information indicates VFR minima prescribed in Part 91 and in paragraphs (b), (c), (d), and (e) can be complied with along the route, or that part of the route to be flown under VFR.*
+*(b) A pilot-in-command of an aeroplane performing a VFR air operation outside controlled airspace must fly in meteorological conditions—*
+	*(1) of not less than a ceiling of 1000 feet AGL and a flight visibility of not less than 5 km; and*
+	*(2) if the operation is by night, of not less than a ceiling of 3000 feet AGL and a flight visibility of not less than 16 km.*
+*(c) A pilot-in-command of a helicopter performing a VFR air transport operation outside controlled airspace must fly in meteorological conditions—*
+	*(1) of not less than a ceiling of 600 feet AGL and flight visibility of not less than 1500 metres; and*
+	*(2) if the operation is by night, of not less than a ceiling of 2000 feet AGL and flight visibility of not less than 5 km.*
+*(d) A pilot-in-command of a helicopter performing a VFR commercial transport operation must—*
+	*(1) manoeuvre the helicopter so that the pilot can, at all times, observe other traffic and any obstruction in time to avoid a collision; and*
+	*(2) for remote aerodrome access, fly in meteorological conditions of not less than a ceiling of 600 feet AGL and flight visibility of not less than 1500 metres; and*
+	*(3) for other than remote aerodrome access, fly beneath the ceiling, remaining clear of cloud, and in continuous sight of the surface and above not more than scattered cloud; and*
+	*(4) if the operation is by night, fly in meteorological conditions of not less than a ceiling of 2000 feet AGL and a flight visibility of not less than 5 km.*
+*(e) A pilot-in-command of an aircraft may not perform an air operation under VFR above more than scattered cloud unless—*
+	*(1) the aircraft is authorised for IFR flight and the required minimum flight crew for IFR operation, holding current instrument rating qualifications, is performing the operation; and*
+	*(2) the instruments and equipment, including radio navigation equipment, required for IFR flight are operative; and*
+	*(3) the aircraft carries radio navigation equipment to enable it to be navigated by IFR to an aerodrome where an instrument approach procedure may be carried out for landing; and*
+	*(4) the aircraft carries sufficient fuel and fuel reserves to proceed by IFR to an aerodrome where an instrument approach procedure may be carried out for landing.*
+*(f) Notwithstanding paragraph (e), a pilot-in-command of an aircraft may not perform an air operation carrying passengers under VFR in a single engine aircraft above more than scattered cloud.*
 
 #### 16.46 Air Operations Performance Requirements
 
-16.46.2 State the CAR Part 135 performance requirements for take-off distance.
-16.46.4 State the CAR Part 135 performance requirements for landing distance.
-16.46.6 State the CAR Part 135 performance requirements for landing on wet and contaminated runways.
-16.46.8 State the meaning of a performance-class 1 helicopter. CAR Part 1 (Helicopter candidates only)
+##### 16.46.2 State the CAR Part 135 performance requirements for take-off distance.
+
+***135.209 Take-off distance***
+*(a) Each holder of an air operator certificate must ensure that, for each aeroplane it operates—*
+	*(1) the take-off weight does not exceed the maximum take-off weight specified in the flight manual; and*
+	*(2) the take-off distance required does not exceed 85% of the take-off run available.*
+*(b) When calculating the take-off weight and distance to determine compliance with paragraph (a), the holder of an air operator certificate must take account of—*
+	*(1) the take-off run available; and*
+	*(2) the weight of the aeroplane at the commencement of the take-off run; and*
+	*(3) the pressure altitude of the aerodrome; and*
+	*(4) ambient temperature at the aerodrome; and*
+	*(5) the type of runway surface and the runway surface condition; and*
+	*(6) the runway slope in the direction of take-off; and*
+	*(7) not more than 50% of the reported headwind component or not less than 150% of the reported tailwind component.*
+
+##### 16.46.4 State the CAR Part 135 performance requirements for landing distance.
+
+***135.223 Landing distance – dry runway***
+*(a) A holder of an air operator certificate must ensure that, for each aeroplane the certificate holder operates, the landing weight for the estimated time of landing does not exceed the landing weight specified in the aeroplane flight manual.*
+*(b) A holder of an air operator certificate must ensure that, for each aeroplane the certificate holder operates, the landing weight of the aeroplane for the estimated time of landing at the destination aerodrome and at any alternate aerodrome allows a full-stop landing from 50 feet above the threshold within 85% of landing distance available.*
+*(c) When calculating the landing weight in accordance with paragraph (b), the certificate holder must take account of—*
+	*(1) aerodrome elevation; and*
+	*(2) ambient temperature at the aerodrome; and*
+	*(3) the type of runway surface and the runway surface condition; and*
+	*(4) the runway slope in the direction of landing; and*
+	*(5) not more than 50% of the reported headwind component or not less than 150% of the reported tailwind component.*
+*(d) For dispatch of an aeroplane to land in accordance with paragraphs (b) and (c), the certificate holder must assume that the aeroplane lands on the most favourable runway taking into account—*
+	*(1) the forecast meteorological conditions; and*
+	*(2) surrounding terrain; and*
+	*(3) approach and landing aids; and*
+	*(4) obstacles within the missed approach flight path.*
+*(e) If the holder of an air operator certificate is unable to comply with paragraph (d) for the destination aerodrome, the aeroplane may be dispatched if an alternate aerodrome is designated that permits compliance with paragraphs (a), (b), and (c).*
+
+##### 16.46.6 State the CAR Part 135 performance requirements for landing on wet and contaminated runways.
+
+***135.225 Landing distance – wet and contaminated runways***
+*(a) Each holder of an air operator certificate must ensure that, for each aeroplane it operates—*
+	*(1) when the appropriate weather reports or forecasts, or a combination of them, indicate that the runway at the estimated time of arrival of the aeroplane may be wet, the landing distance available is at least 115% of the landing distance required by rule 135.223; and*
+	*(2) when the appropriate weather reports or forecasts, or a combination of them, indicate that the runway at the estimated time of arrival of the aeroplane may be contaminated, the landing distance available is at least—*
+		*(i) the landing distance required by paragraph (a)(1); or*
+		*(ii) the landing distance determined in accordance with contaminated landing distance data.*
+*(b) A landing distance on a wet runway shorter than that required by paragraph (a)(1), but not less than that required by rule 135.223, may be used if data specifies a shorter landing distance on wet runways.*
+
+##### 16.46.8 State the meaning of a performance-class 1 helicopter. CAR Part 1 (Helicopter candidates only)
+
+*N/A*
 
 ## Flight Planning and Preparation
 
 #### 16.50 Flight Preparation
 
-16.50.2 Explain the requirements for the obtaining and considering relevant information prior to flight. CAR Part 91
-16.50.4 Describe the publications and their content that provide operational route and aerodrome information.
-16.50.6 Derive operational information from charts and publications that provide route and aerodrome information.
+##### 16.50.2 Explain the requirements for the obtaining and considering relevant information prior to flight. CAR Part 91
+
+
+
+##### 16.50.4 Describe the publications and their content that provide operational route and aerodrome information.
+
+
+
+##### 16.50.6 Derive operational information from charts and publications that provide route and aerodrome information.
+
+
+
 
 #### 16.54 Fuel Requirements
 
