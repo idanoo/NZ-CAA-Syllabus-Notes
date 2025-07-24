@@ -21,50 +21,42 @@
 ##### 16.2.4 Describe the criteria for the fit and proper person test, as laid down in CA Act 2023 section 80.
 
 (1) For the purpose of determining whether a person is a fit and proper person for any purpose under this Act, the Director must, having regard to the degree and nature of the person’s proposed involvement in the New Zealand civil aviation system, have regard to, and give the weight that the Director considers appropriate to, the following matters:
-   (a) the person’s history of compliance with transport safety and transport security requirements, whether inside or outside New Zealand:
-  (b) the person’s related experience (if any) within the transport industry:
-  (c) the person’s knowledge of the applicable civil aviation system regulatory requirements:
-  (d) any history of physical or mental health problems or serious behavioural problems of the person:
-  (e)the person’s use of drugs or alcohol:
-  (f) any conviction of the person for a transport safety offence or an offence under the [Health and Safety at Work Act 2015](https://www.legislation.govt.nz/act/public/2023/0010/latest/link.aspx?id=DLM5976602), whether or not—
-   (i) the conviction was in a New Zealand court; or
-   (ii) the offence was committed before the commencement of this Act:
-  (g) any evidence that the person has committed a transport safety offence or has contravened or failed to comply with civil aviation legislation:
-  (h) if a New Zealand AOC with ANZA privileges applies, the person’s compliance with the conditions specified in [section 91(4)](https://www.legislation.govt.nz/act/public/2023/0010/latest/link.aspx?id=LMS49637#LMS49637).
-
+	(a) the person’s history of compliance with transport safety and transport security requirements, whether inside or outside New Zealand:
+	(b) the person’s related experience (if any) within the transport industry:
+	(c) the person’s knowledge of the applicable civil aviation system regulatory requirements:
+	(d) any history of physical or mental health problems or serious behavioural problems of the person:
+	(e)the person’s use of drugs or alcohol:
+	(f) any conviction of the person for a transport safety offence or an offence under the [Health and Safety at Work Act 2015](https://www.legislation.govt.nz/act/public/2023/0010/latest/link.aspx?id=DLM5976602), whether or not—
+		(i) the conviction was in a New Zealand court; or
+		(ii) the offence was committed before the commencement of this Act:
+	(g) any evidence that the person has committed a transport safety offence or has contravened or failed to comply with civil aviation legislation:
+	(h) if a New Zealand AOC with ANZA privileges applies, the person’s compliance with the conditions specified in [section 91(4)](https://www.legislation.govt.nz/act/public/2023/0010/latest/link.aspx?id=LMS49637#LMS49637).
 (2) The Director is not confined to consideration of the matters specified in subsection (1) and may take into account any other matters and evidence that the Director considers may be relevant.
-
 (3) The Director may, for the purpose of determining whether a person is a fit and proper person for any purpose under this Act,—
-  (a) seek and receive any information (including medical reports) that the Director thinks fit; and
-  (b) consider information obtained from any source.
-
+	(a) seek and receive any information (including medical reports) that the Director thinks fit; and
+	(b) consider information obtained from any source.
 (4) Nothing in the [Privacy Act 2020](https://www.legislation.govt.nz/act/public/2023/0010/latest/link.aspx?id=LMS23193) prevents a person or an agency from disclosing personal information (within the meaning of that Act) to the Director in response to a request made by the Director under subsection (3).
-
 (5) Subsection (1) applies to a body corporate with the following modifications:
-  (a) subsection (1)﻿(a), (b), (c), (f), and (g) must be read as if those paragraphs refer to the body corporate and its officers:
-  (b) subsection (1)﻿(d) and (e) must be read as if those paragraphs refer only to the officers of the body corporate.
+	(a) subsection (1)﻿(a), (b), (c), (f), and (g) must be read as if those paragraphs refer to the body corporate and its officers:
+	(b) subsection (1)﻿(d) and (e) must be read as if those paragraphs refer only to the officers of the body corporate.
 
 ##### 16.2.6 Describe the duties of the pilot-in-command, as laid down in CA Act 2023 sections 14, 15 and 16.
 
-***14 Duties of pilot-in-command_***  
+***14 Duties of pilot-in-command*** 
 *(1) A pilot-in-command is responsible for—*
 	*(a) the safe operation of the aircraft; and*  
 	*(b) the safety and well-being of all passengers and crew; and*  
 	*(c) the safety of the cargo carried.*
-
 *(2) The pilot-in-command has final authority to control the aircraft while in command and for the maintenance of discipline by all persons on board the aircraft.*
-
 *(3) The pilot-in-command is responsible for compliance with all relevant requirements of civil aviation legislation.*
-
 *(4)  Subsection (3) is subject to sections 15 and 16.*  
   
 ***15 Duties of pilot-in-command in emergencies arising in flight***
-*(1) In an emergency arising in flight, the pilot-in-command may breach civil aviation legislation only if the pilot-in-command is satisfied that—_*
-	*(a) the emergency involves a danger to life or property; and*  
-	*(b) the extent of the breach goes only as far as is necessary to deal with the emergency; and*  
-	*(c) there is no other reasonable means of alleviating, avoiding, or assisting with the emergency; and*  
+*(1) In an emergency arising in flight, the pilot-in-command may breach civil aviation legislation only if the pilot-in-command is satisfied that—*
+	*(a) the emergency involves a danger to life or property; and* 
+	*(b) the extent of the breach goes only as far as is necessary to deal with the emergency; and* 
+	*(c) there is no other reasonable means of alleviating, avoiding, or assisting with the emergency; and*
 	*(d) the degree of danger involved in complying with the provision is clearly greater than the degree of danger involved in deviating from it.*
-
 *(2) If the pilot-in-command breaches civil aviation legislation in accordance with this section, the pilot-in-command must—*
 	*(a) immediately notify the relevant air traffic control service of the breach; and*  
 	*(b) as soon as practicable, notify the Director of the breach and the circumstances that necessitated it; and*  
@@ -158,9 +150,8 @@
 
 #### 16.4 Definitions
 
-Note: Since some definitions in Part 1 have changed to align with the CA Act 2023,
-participants are encouraged to check the new Part 1. CAR Part 1 (unless otherwise noted)
-
+*Note: Since some definitions in Part 1 have changed to align with the CA Act 2023,*
+*participants are encouraged to check the new Part 1. CAR Part 1 (unless otherwise noted)*
 ##### 16.4 State the definition of:
 
 **(a) accelerate-stop distance available;**
@@ -2461,88 +2452,594 @@ Only below 500 feet not within 150 metres of a person, vessel, vehicle or struct
 
 ##### 16.50.2 Explain the requirements for the obtaining and considering relevant information prior to flight. CAR Part 91
 
-
+***91.217 Preflight action***
+*Before commencing a flight, a pilot-in-command of an aircraft must obtain and become familiar with all information concerning that flight including—*
+*(1) where practicable, the current meteorological information; and*
+*(2) the fuel requirements; and*
+*(3) the alternatives available if the planned flight cannot be completed; and*
+*(4) any known or likely traffic delays that have been notified by ATS; and*
+*(5) the status of the communication and navigation facilities intended to be used; and*
+*(6) the current conditions of the aerodrome and runway lengths at aerodromes of intended use; and*
+*(7) any take-off and landing distance data contained in the aircraft flight manual; and*
+*(8) in the case of aircraft powered by two or more engines—*
+	*(i) engine inoperative procedures; and*
+	*(ii) one engine inoperative performance data.*
 
 ##### 16.50.4 Describe the publications and their content that provide operational route and aerodrome information.
 
+*AIP Vol 2/3 - IFR aerodromes* 
+*Enroute Charts - IFR routes*
 
+*AIP Vol 4 - VFR aerodromes*
+*VNC Charts - VFR routes*
+
+***91.221 Flying equipment and operating information***
+*(a) A pilot-in-command of an aircraft must ensure that the following equipment and information, in current and appropriate form, is accessible to every flight crew member of the aircraft:*
+	*(1) an accurate means of indicating the time:*
+	***(2) appropriate aeronautical charts:***
+	*(3) for IFR operations, every appropriate navigational en route, terminal area, approach, and instrument approach and departure chart:*
+	*(4) for night operations, an operable electric torch for every flight crew member.*
+*(b) In addition to paragraph (a), a pilot-in-command of an aircraft in excess of 5700 kg MCTOW, or having a certificated seating capacity of 10 passenger seats or more, must ensure that every flight crew member uses a cockpit checklist covering the normal and emergency procedures for the operation of the aircraft in accordance with the aircraft flight manual.*
 
 ##### 16.50.6 Derive operational information from charts and publications that provide route and aerodrome information.
 
-
-
+*// TODO - Practical Exercise*
 
 #### 16.54 Fuel Requirements
 
-16.54.2 State the fuel reserve (A) or (H) required for a day VFR flight. CAR Part 91
-16.54.4 State the fuel reserve (A) or (H) required for a night VFR flight. CAR Part 91
+##### 16.54.2 State the fuel reserve (A) or (H) required for a day VFR flight. CAR Part 91
+
+30 minutes - as below.
+##### 16.54.4 State the fuel reserve (A) or (H) required for a night VFR flight. CAR Part 91
+
+45 minutes.
+
+***91.305 Fuel requirements for flight under VFR***
+*(a) A pilot-in-command of an aeroplane must not begin a flight under VFR unless, in the forecast weather conditions, the aeroplane has enough fuel to fly to the first point of intended landing at the planned normal cruising speed and to fly after that point of intended landing for at least—*
+	*(1) a further 30 minutes during the day; or*
+	*(2) a further 45 minutes at night; or*
+	*(3) for an aeroplane that has a special category—limited airworthiness certificate or a special category—exhibition airworthiness certificate, the flying time specified for the VFR minimum fuel reserve in the operator statement required under rule 47.55(c)*
 
 #### 16.56 Flight Plans
 
-16.56.2 State the CAR Part 135 requirements for the filing of a flight plan.
-16.56.4 State the requirements for the notification of changes to the filed flight plan. CAR Part 91
-16.56.6 State the requirements for terminating a flight plan. CAR Part 91
-16.56.8 Describe the difference between ETA and SARTIME. CAR Part 91
-16.56.10 State the time search and rescue action would be initiated if a flight plan is not terminated before SARTIME. AIP ENR
+##### 16.56.2 State the CAR Part 135 requirements for the filing of a flight plan.
+
+Required unless VFR, Flight following service, pilot maintains listening watch on appropriate ATS radio frequency.
+
+***135.57 Flight preparation and flight planning***
+*(a) The holder of an air operator certificate must ensure that for each air operation conducted under the authority of that certificate, appropriate information is available to the pilot-in-command to complete the preparation for the intended operation.*
+*(b) The holder of an air operator certificate must ensure that prior to each—*
+	*(1) air transport operation; and*
+	*(2) commercial transport operation where passengers or goods are carried from or to a remote aerodrome,
+conducted under the authority of that certificate, a flight plan meeting the requirements of rule 91.307(c) or 91.407 as appropriate for the type of operation is prepared, and if the flight plan is not prepared by the pilot-in-command, the pilot-in-command is informed of the contents of the flight plan before the intended operation.*
+*(c) A VFR flight plan prepared under paragraph (b) in accordance with the requirements of rule 91.307(c) may incorporate multiple route segments provided that the SARTIME is amended for the next aerodrome of intended landing as the flight proceeds.*
+*(d) The holder of an air operator certificate performing an air operation under VFR to an aerodrome where communications cannot be maintained, must ensure that prior to any such air operation —*
+	*(1) the flight plan required by paragraph (b) includes a SARTIME for when the next communication with an ATS unit will be established; or*
+	*(2) where the operation is covered by a flight following service under rule 119.73(b) or 119.121(b), the person providing the flight following service is given a time for re-establishing communications.*
+*(e) Except as provided in paragraph (f) the holder of the air operator certificate must ensure that the flight plan required under paragraph (b) is submitted to an appropriate ATS unit.*
+*(f) Except as required by rule 91.307(a)(1), a flight plan is not required to be submitted to an ATS unit if —*
+	*(1) the air operation is a VFR flight; and*
+	*(2) the operation is covered by a flight following service under rule 119.73 or 119.121; and*
+	*(3) the requirements under rule 119.73(b) or 119.121(b) are met; and*
+	*(4) the pilot-in-command maintains a listening watch on the appropriate ATS radio frequency.*
+*(g) Notwithstanding rules 91.307(a) and 91.407(a)(1), the flight plan required to be submitted to an ATS unit under paragraph (e) may be submitted by the holder of the air operator certificate and the pilot-in-command must be informed of the contents of the flight plan.*
+
+##### 16.56.4 State the requirements for the notification of changes to the filed flight plan. CAR Part 91
+
+VFR - Notify before SARTIME.
+IFR:
+- Any delay exceeding 30 minutes.
+- Any deviation as soon as practicable.
+- Any deviation from track, 5% airspeed or 0.02 mach.
+- Revised ETA if more than 2 minutes difference.
+
+***91.407 IFR flight plan***
+*(a) A pilot-in-command of an aircraft must—*
+	(4) advise the appropriate ATS unit, as soon as possible, of any delay exceeding 30 minutes in beginning the flight or departing from any aerodrome of intended landing;
+
+***91.409 Adherence to flight plan***
+	*(c) If a deviation from a flight plan is made under paragraph (a)(2), the pilot-in-command must notify an appropriate ATS unit as soon as practicable.*
+
+***91.411 Inadvertent change to flight plan***
+*A pilot-in-command of an aircraft operating under IFR, must in the event of*
+*an inadvertent departure from the current flight plan—*
+	*(1) advise an appropriate ATS unit of—*
+		*(iii) any deviation from track; and*
+		*(iv) any variation of 5% or more of the true airspeed or any variation of 0.02 or more of the Mach number given in the flight plan; and* 
+		*(v) a revised ETA when the estimated ETA to the next reporting point notified to the ATS unit is found to be in error by more than two minutes; and*
+*(2) regain track as soon as practicable.*
+
+***92.307 VFR flight plan***
+*(d) If a VFR flight plan has been submitted to an ATS unit under paragraphs (a) or (b), the pilot-in-command must—*
+	*(1) inform an appropriate ATS unit of any change to the details in the flight plan and of any change to the flight plan SARTIME before the expiry of that SARTIME;*
+
+##### 16.56.6 State the requirements for terminating a flight plan. CAR Part 91
+
+IFR - Only request when no ATS at aerodrome.
+VFR - Always request termination.
+
+***91.407 IFR flight plan***
+*(a) A pilot-in-command of an aircraft must—*
+	*(5) terminate the flight plan as soon as practicable on completion of any flight at an aerodrome without ATS*
+
+***92.307 VFR flight plan***
+*(d) If a VFR flight plan has been submitted to an ATS unit under paragraphs (a) or (b), the pilot-in-command must—*
+	*(2) terminate the flight plan by advising an appropriate ATS unit before the flight plan SARTIME.*
+##### 16.56.8 Describe the difference between ETA and SARTIME. CAR Part 91
+
+Estimated Time of Arrival - Time expected to arrive.
+Search and Rescue time - Time that SAR will be initiated (Usually 30min after ETA).
+
+*// TODO - Find relevant docs*
+
+##### 16.56.10 State the time search and rescue action would be initiated if a flight plan is not terminated before SARTIME. AIP ENR
+
+At the SARTIME specified on the flight plan.
+
+***ENR 1.10 Flight Planning***
+***5.1 IFR Flight Plan***
+*5.1.1 Flights arriving at aerodromes where ATS is in attendance will have their flight plans automatically terminated by ATS.*
+*5.1.2 Flights arriving at other aerodromes must contact ATS within 15 minutes of the last acknowledged ETA at that aerodrome, or terminate by SARTIME if one has been nominated*
+
+***5.2 VFR Flight Plan*** 
+*5.2.1 Pilots must request that their VFR flight plans be terminated, because SAR action will be initiated at the nominated SARTIME unless the flight plan has been terminated*
+*5.2.2 On arrival at an ATS or UNICOM attended aerodrome, pilots wishing to terminate their flight plan must specify this to ATS or UNICOM and receive an acknowledgement.*
 
 #### 16.58 Enroute Limitations
 
-16.58.2 State the CAR Part 135 enroute limitations for two engine aeroplanes. 
+##### 16.58.2 State the CAR Part 135 enroute limitations for two engine aeroplanes. 
+
+Able to continue flying at a positive rate above MSA, to 1000 feet above an aerodrome to land in conditions.
+No more than 90 minutes away from an aerodrome.
+
+***135.217 En-route – critical engine inoperative***
+*(a) Each holder of an air operator certificate must ensure that, for each aeroplane it operates having two or more engines, the aeroplane is capable of continuing flight at a positive slope at or above the relevant minimum safe altitudes, to a point 1000 feet above an aerodrome at which the performance requirements can be met under the following conditions—*
+	*(1) in the forecasted meteorological conditions expected for the flight; and*
+	*(2) with the critical engine inoperative; and*
+	*(3) with the remaining engines operating within the maximum continuous power conditions specified.*
+*(b) When calculating the en-route limitations in accordance with paragraph (a), the holder of an air operator certificate must ensure that—*
+	*(1) the aeroplane is not assumed to be flying at an altitude exceeding that at which the rate of climb is not less than 300 feet per minute with all engines operating within the maximum continuous power conditions specified in the aeroplane flight manual; and*
+	*(2) the assumed en-route gradient with one engine inoperative is the gross-gradient-minus-0.5% gradient.*
+
+***135.219 En-route – 90 minute limitation***
+*(a) Each holder of an air operator certificate must ensure that each aeroplane it operates with two engines is not more than 90 minutes away from an aerodrome at which the performance requirements specified in the aeroplane flight manual applicable at the expected landing weight are met.*
 
 ## Air Traffic Services
 
 #### 16.60 Communications
 
-16.60.2 Derive from operational publications, the required radio frequency for communicating with specified ATC units.
-16.60.4 State the requirements for making position reports to an ATS unit. CAR Part 91 & AIP ENR
-16.60.6 State the content of a VFR position report. AIP ENR
-16.60.8 State the purpose of Universal Communications Services (UNICOM). AIP GEN
-16.60.10 State the purpose of an Aerodrome Frequency Response Unit (AFRU). AIP GEN
-16.60.12 State the purpose of Aerodrome and Weather Information Broadcasts (AWIB). AIP GEN
-16.60.14 State the meaning of the various light signals from a control tower. CAR Part 91 & AIP AD
-16.60.16 State the communications requirements when TIBA procedures are in force. AIP ENR
+##### 16.60.2 Derive from operational publications, the required radio frequency for communicating with specified ATC units.
+
+*// TODO - Practical Exercise*
+
+##### 16.60.4 State the requirements for making position reports to an ATS unit. CAR Part 91 & AIP ENR
+
+VFR:
+- When requesting clearance.
+- Before, at intervals during, and after an MBZ.
+- Before entering a restricted area.
+IFR:
+- Yes
+
+***91.309 Position reports***
+*A pilot-in-command of an aircraft on a VFR flight must, when operating in controlled airspace, report the position of the aircraft to ATC at the times or reporting points required by ATC.*
+
+***ENR 1.1 - 7 POSITION REPORTING UNDER VFR IN NEW ZEALAND FIR*
+*7.1 Position Reports Required*
+*7.1.1 The pilot of an aircraft operating under VFR is required to report position:*
+*(a) when requesting clearance to enter Class C and D airspace;*
+*(b) when requested by ATC when operating within Class C and D airspace;*
+*(c) prior to entry, at specified interval while operating within, and exiting a MBZ; and*
+*(d) prior to entry into a restricted area or military operating area where ATC is the administering authority for that area.*
+
+***7.2 Position Reports Recommended***
+*7.2.1 The pilot of an aircraft operating under VFR is recommended to report position at regular intervals:*
+	*(a) when on a cross country flight; and*
+	*(b) to the TWR when on a local flight.*
+
+##### 16.60.6 State the content of a VFR position report. AIP ENR
+
+****ENR 1.1 - 7 POSITION REPORTING UNDER VFR IN NEW ZEALAND FIR**
+***7.3 Content of Visual Position Reports***
+*7.3.1 Visual position reports should contain those elements of the following as applicable to the reason for the report:*
+	*(a) identification;*
+	*(b) SSR code (if on discrete code);*
+	*(c) position;*
+	*(d) time;*
+	*(e) altitude;*
+	*(f) intended route;*
+	*(g) next landing point; and*
+	*(h) ETA at next landing point.*
+
+##### 16.60.8 State the purpose of Universal Communications Services (UNICOM). AIP GEN
+
+To provide information such as aerodrome conditions, basic weather/met reports.
+
+***GEN 3.4 - 3 TYPES OF SERVICE***
+***Universal Communication (UNICOM) Services***
+*3.3.17 UNICOM is not an air traffic service. UNICOM is an air/ground communications facility providing an information service at aerodromes with no aerodrome control or aerodrome flight information service.*
+*3.3.18 UNICOM is provided at Ardmore aerodrome by Ardmore Airport Limited and Whanganui aerodrome by Whanganui airport.*
+*3.3.19 Information provided may include:*
+	*(a) current aerodrome information and conditions;*
+	*(b) basic weather information such as:*
+		*(i) wind direction and strength;*
+		*(ii) visibility;*
+		*(iii) cloud cover;*
+		*(iv) temperature; and*
+		*(v) QNH (if from a CAR Part 174 certificated source) or mean sea level pressure.*
+	*(c) meteorological reports (subject to certification under Civil Aviation Rules Part 174);*
+	*(d) Aerodrome and Weather Information Broadcasts (AWIB).*
+*3.3.20 The UNICOM operator may also provide other ancillary services*
+
+##### 16.60.10 State the purpose of an Aerodrome Frequency Response Unit (AFRU). AIP GEN
+
+Confirms transmission is on the right frequency. Either location/freq if first call in 5 min or a short tone burst.
+
+***GEN 3.4 - 3 TYPES OF SERVICE***
+***Aerodrome Frequency Response Unit (AFRU)***
+*3.3.21 An AFRU is a unit that provides confirmation to pilots that they have selected the correct aerodrome frequency, and that their aircraft radio is operating correctly. It may operate as a supplementary device to a ground facility (UNICOM) operating on the aerodrome frequency, or it may be the sole ground communications device.*
+*3.3.22 If an aircraft operating within radio range of the AFRU makes a transmission on the aerodrome frequency, the AFRU will detect the transmission and automatically respond on the frequency with either:*
+	*(a) a pre-recorded voice message, (normally the aerodrome location and frequency) if no aircraft transmissions have been received in the period (typically 5 minutes) preceding the transmission; or*
+	*(b) a short tone burst if any transmissions have been received in the preceding period.*
+
+##### 16.60.12 State the purpose of Aerodrome and Weather Information Broadcasts (AWIB). AIP GEN
+
+Relays information on met an operational conditions. Not as accurate as ATIS.
+Runway in use, wind, visibility, cloud cover, temperature, QNH.
+
+***GEN 3.4 - 3 TYPES OF SERVICE***
+***Aerodrome and Weather Information Broadcasts (AWIB)***
+*3.4.3 An AWIB is an automated broadcast on a specified frequency at some unattended aerodromes. It relays information on meteorological and operational conditions that are obtained from automatic sensors and manual observations.*
+*3.4.4 An AWIB is not provided by an air traffic service and is therefore not required to have the same standard of accuracy as an ATIS does.*
+*3.4.5 The following information (which may be obtained from automatic sensors, manual observations, or a combination of both, and may vary with location) may be broadcast by an AWIB:*
+	*(a) Preferred runway–in–use;*
+	*(b) Other operational information;*
+	*(c) Wind direction and strength;*
+	*(d) Visibility;*
+	*(e) Cloud cover;*
+	*(f) Temperature;*
+	*(g) QNH (if from a CAR Part 174 certificated source) or mean sea level pressure.*
+*3.4.6 Pilots should note that MET information may not necessarily be representative of the conditions in the vicinity of the runway because of the siting of the AWS and the area of scan.*
+*3.4.7 Frequencies and hours of operation for AWIB are provided in Table GEN 3.7-1*
+##### 16.60.14 State the meaning of the various light signals from a control tower. CAR Part 91 & AIP AD
+
+***Table AD 1.10-1 Visual Signals***
+
+| Colour and Type of Signal                 | To Aircraft in Flight                                                    | To Aircraft on the Aerodrome          |
+| ----------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------- |
+| Steady green                              | Cleared to land                                                          | Cleared for take-off                  |
+| Steady red                                | Give way to other<br>aircraft and continue<br>circling (1)               | Stop                                  |
+| Series of green flashes                   | Return for landing (2)                                                   | Cleared to taxi                       |
+| Series of red flashes                     | Aerodrome unsafe — do not land                                           | Taxi clear of landing aera in use     |
+| Series of white flashes                   | Land at this aerodrome and proceed to apron (2)                          | Return to starting point on aerodrome |
+| Series of alternate red and green flashes | Danger — be on the alert                                                 | Danger - Be on the alert              |
+| Red pyrotechnic                           | Notwithstanding any previous instructions do not land for the time being |                                       |
+
+*(1) Circling means continue tracking via the aerodrome traffic circuit. Do not orbit in position.*
+*(2) Clearance to land and taxi will be given in due course.*
+
+##### 16.60.16 State the communications requirements when TIBA procedures are in force. AIP ENR
+
+***ENR 1.15 - 8  Traffic Information Broadcasts by Aircraft (TIBA)***
+***8.5 TIBA Listening Watch***
+*8.5.1 A listening watch should be maintained on the TIBA frequency 10 minutes before entering TIBA airspace until leaving that airspace. For an aircraft taking off from an aerodrome located within the lateral limits of TIBA airspace, listening watch should start as soon as appropriate prior to or after take-off.*
+*8.5.2 Aircraft within the NZZO FIR should also make position reports to an alternative HF station.*
+
+***8.6 Timing of TIBA***
+*8.6.1 A broadcast should be made:*
+	*(a) 10 minutes before entering TIBA airspace or, for a pilot taking off from an aerodrome located within the lateral limits of TIBA airspace, as soon as appropriate prior to or after take-off;*
+	*(b) 10 minutes prior to, and crossing any reporting point;*
+	*(c) at 10 minute intervals between reporting points;*
+	*(d) 10 minutes prior to crossing or joining an ATS route;*
+	*(e) where possible 2 to 5 minutes before a change in flight level or altitude;*
+	*(f) at the time of a change in flight level or altitude;*
+	*(g) when reaching new flight level or altitude; and*
+	(h) at any other time considered necessary by the pilot.
 
 #### 16.62 Clearances
 
-16.62.2 State the requirements for complying with ATC clearances and instructions. CAR Part 91 & AIP ENR
-16.62.4 State the requirements for coordinating with an aerodrome flight information service. CAR Part 91
-16.62.6 State the requirements for receiving an ATC clearance prior to entering various types of airspace, and ground manoeuvring area. CAR Part 91 & AIP ENR
-16.62.8 State the requirements for receiving an ATC clearance prior to re-entering controlled airspace. CAR Part 91 & AIP ENR
+##### 16.62.2 State the requirements for complying with ATC clearances and instructions. CAR Part 91 & AIP ENR
+
+***91.241 Compliance with ATC clearances and instructions***
+*(a) A pilot of an aircraft operating in a control area or control zone designated under Part 71 must—*
+	*(1) except when manoeuvring in accordance with an ACAS resolution advisory or a GPWS or TAWS alert, comply with any ATC clearance or instruction issued by the ATC unit responsible for the control area or control zone; and*
+	*(2) when a deviation from an ATC clearance or instruction is required for the safe operation of the aircraft, notify ATC of the deviation as soon as possible.*
+*(b) A pilot of an aircraft need not comply with an ATC clearance or instruction if compliance would cause the pilot to breach any rule in this Part.*
+*(c) A pilot of an aircraft who elects not to comply with an ATC clearance or instruction under paragraph (b) must immediately notify the appropriate ATC unit of the non-compliance.*
+
+***ENR 1.1 - 8 ATC Clearances***
+***8.1 General***
+
+*8.1.1 CAR 91.245 and 91.247 prescribe that airspace in which an ATC clearance is required. Rule 91.225 prescribes the requirements for ATC clearances when operating at an aerodrome where ATC is in attendance.*
+
+*8.1.2 Clearances (and compliance with them) are required by:*
+	*(a) all aircraft, helicopters, vehicles, equipment and pedestrians to operate on the manoeuvring area at a controlled aerodrome when ATC is in attendance;*
+	*(b) IFR flights in Class C or D airspace; and*
+	*(c) VFR flights in Class C or D airspace.*
+
+*8.1.7 An ATC instruction is a directive issued by ATC for the purpose of requiring a pilot to take specific action. For the purposes of AIP New Zealand, “clearance” and “instruction” will have the same meaning*
+
+##### 16.62.4 State the requirements for coordinating with an aerodrome flight information service. CAR Part 91
+
+***91.225 Operations at aerodromes with air traffic services***
+*(a) A pilot-in-command of an aircraft on or in the vicinity of an aerodrome with an aerodrome control service in operation must—*
+	*(1) unless otherwise authorised by ATC, maintain two-way radio communications with that service on the prescribed frequency; and*
+	*(2) obtain an ATC clearance from that service before—*
+		*(i) taxiing on any portion of the manoeuvring area; or*
+		*(ii) landing at or taking-off from any runway or heliport at that aerodrome; or*
+		*(iii) entering a control zone.*
+*(b) A pilot-in-command of an aircraft on or in the vicinity of an aerodrome with an aerodrome flight information service in operation must—*
+	*(1) if the aircraft is equipped with radio, maintain two-way radio communications with that service on the prescribed frequency; and*
+	*(2) advise that service of the intended use of that aerodrome before —*
+		*(i) taxiing on any portion of the manoeuvring area; or*
+		*(ii) landing at or taking-off from any runway or heliport at that aerodrome; or*
+		*(iii) entering the aerodrome traffic circuit at that aerodrome.*
+*(c) A pilot-in-command of an aircraft that is not equipped with radio and that is on or in the vicinity of an aerodrome with an aerodrome flight information service in operation must advise that service of the intended use of the aerodrome before —*
+	*(1) taxiing on to any portion of the manoeuvring area; and*
+	*(2) entering the aerodrome traffic circuit at that aerodrome.*
+
+##### 16.62.6 State the requirements for receiving an ATC clearance prior to entering various types of airspace, and ground manoeuvring area. CAR Part 91 & AIP ENR
+
+**ENR - 1.1 - 8 ATC Clearances**
+8.1.2 Clearances (and compliance with them) are required by:
+	(a) all aircraft, helicopters, vehicles, equipment and pedestrians to operate on the manoeuvring area at a controlled aerodrome when ATC is in attendance;
+	(b) IFR flights in Class C or D airspace; and
+	(c) VFR flights in Class C or D airspace
+
+***91.225 Operations at aerodromes with air traffic services***
+*(a) A pilot-in-command of an aircraft on or in the vicinity of an aerodrome with an aerodrome control service in operation must—*
+	*(1) unless otherwise authorised by ATC, maintain two-way radio communications with that service on the prescribed frequency; and*
+	*(2) obtain an ATC clearance from that service before—*
+		*(i) taxiing on any portion of the manoeuvring area; or*
+		*(ii) landing at or taking-off from any runway or heliport at that aerodrome; or*
+		*(iii) entering a control zone.*
+*(b) A pilot-in-command of an aircraft on or in the vicinity of an aerodrome with an aerodrome flight information service in operation must—*
+	*(1) if the aircraft is equipped with radio, maintain two-way radio communications with that service on the prescribed frequency; and*
+	*(2) advise that service of the intended use of that aerodrome before —*
+		*(i) taxiing on any portion of the manoeuvring area; or*
+		*(ii) landing at or taking-off from any runway or heliport at that aerodrome; or*
+		*(iii) entering the aerodrome traffic circuit at that aerodrome.*
+*(c) A pilot-in-command of an aircraft that is not equipped with radio and that is on or in the vicinity of an aerodrome with an aerodrome flight information service in operation must advise that service of the intended use of the aerodrome before —*
+	*(1) taxiing on to any portion of the manoeuvring area; and*
+	*(2) entering the aerodrome traffic circuit at that aerodrome.*
+
+##### 16.62.8 State the requirements for receiving an ATC clearance prior to re-entering controlled airspace. CAR Part 91 & AIP ENR
+
+***ENR - 1.1 - 8 ATC Clearances***
+*8.5.3 When a pilot intends to leave controlled airspace, or leave and subsequently re-enter the same or other controlled airspace on the same continuous route, the IFR clearance limit will normally be the aerodrome of first intended landing. Such a clearance, or revisions to it, will apply only to those portions which are conducted in controlled airspace. Traffic information will be provided for those portions outside controlled airspace.*
 
 #### 16.63 Separation
 
-16.63.2 Describe the method of passing traffic information using the clock code.
-16.63.4 Describe the situations where Air Traffic Control is responsible for the provision of separation between VFR, SVFR and IFR traffic. AIP ENR
-16.63.6 Describe the situations where the pilot-in-command is responsible for maintaining separation from other traffic. AIP ENR
-16.63.8 Describe the normal separation standards applied by ATC. AIP ENR
-16.63.10 Describe the situations where the normal separation may be reduced. AIP ENR
-16.63.12 State the wake turbulence separation requirements for light aircraft in non-radar environment. AIP AD
+##### 16.63.2 Describe the method of passing traffic information using the clock code.
+
+References to bearing on a clock. "Traffic 9 o'clock - 2 miles" - This would be 270deg relative, out the left side.
+
+*// TODO - Find reference to this*
+
+##### 16.63.4 Describe the situations where Air Traffic Control is responsible for the provision of separation between VFR, SVFR and IFR traffic. AIP ENR
+
+- Between IFR flights in A, C, D. 
+- IFR and VFR in C
+- IFR and SVFR.
+- SVFR in under 5km vis.
+
+***ENR 1.1 - 9.1 Separation Provided***
+*9.1.1 Separation is provided by ATC:*
+*(a) between IFR flights in Classes A, C, and D airspace; except that separation is not provided during hours of daylight in Class D airspace when flights have been cleared to climb or descend subject to maintaining own separation in VMC;*
+*(b) between IFR and VFR flights in class C airspace;*
+*(c) between IFR and SVFR flights;*
+*(d) between SVFR flights when the flight visibility is reported to be less than 5 km; and*
+*(e) at controlled aerodromes when defined runway and wake turbulence separations are applicable. Wake turbulence separations applicable to all phases of flight are listed in AD 1.7*
+
+##### 16.63.6 Describe the situations where the pilot-in-command is responsible for maintaining separation from other traffic. AIP ENR
+
+***ENR 1.1 - 9.2 Separation Not Provided***
+*9.2.1 Separation is not provided:*
+	*(a) between IFR flights in Class G airspace;*
+	*(b) between IFR and VFR flights in Class G airspace; between IFR and VFR flights in Class D airspace; between an IFR flight at the lowest usable cruising level in Class C airspace and a VFR flight in Class D airspace operating at the common airspace level;*
+	*(c) between SVFR flights when the flight visibility is reported to be 5km or greater;*
+	*(d) between VFR flights, except at controlled aerodromes when defined runway and wake turbulence separations are applicable. (Within the circuit at controlled aerodromes, an aerodrome control service is provided in which instructions, clearances and information are issued to VFR flights to prevent collisions and to achieve defined runway and wake turbulence separation.)*
+	*(e) between a flight known to be responding to a TCAS RA, or a GPWS or TAWS alert, and other flights where separation is normally provided as listed above. When the pilot advises “Clear of conflict”, ATC will make every endeavour to restore standard separation and an orderly flow of traffic. ATC responsibility for maintaining separation resumes from the time that separation is re-established between all aircraft involved in the manoeuvre.*
+
+***ENR 1.1 - 9.7 Flights Maintaining Own Separation in VMC***
+*9.7.1 In Class D airspace, an IFR flight may be cleared to maintain own separation from one other IFR flight and remain in VMC provided that:*
+	*(a) the clearance is in response to a specific request from the pilot of the aircraft; and*
+	*(b) the flight is during the day; and*
+	*(c) a radar control service is not available; and*
+	*(d) the clearance is for a specified portion of the flight at or below 10,000 ft AMSL during climb or descent to a clearly defined separation level, position or time; and*
+	*(e) the pilot of the other IFR flight agrees with application of the procedure; and*
+	*(f) essential traffic information is passed; and*
+	*(g) the flights concerned are on the same ATC frequency.*
+*9.7.2 If there is a possibility that flight under VMC may become impracticable, the IFR flight will be provided with alternative instructions to be complied with in the event that flight in VMC cannot be maintained for the term of the clearance. If alternative instructions are not available this clearance will not be issued.*
+*9.7.3 On observing that conditions are deteriorating and considering that operations in VMC will become impossible, the pilot of the IFR flight must inform ATC and receive alternative instructions before entering IMC and then proceed in accordance with the alternative instructions given.*
+*9.7.4 A clearance will be withheld where it is considered that other flights may be adversely affected or an orderly flow of traffic prejudiced.*
+
+##### 16.63.8 Describe the normal separation standards applied by ATC. AIP ENR
+
+***9.4 Vertical Separation***
+*9.4.1 Vertical separation between controlled flights is 1000 ft below FL290, or 2000 ft above FL290, except that this may be reduced to 1000 ft in RVSM airspace if both aircraft are RVSM approved. The 1000 ft standard may be reduced to 500 ft within controlled airspace providing both aircraft are medium or light weight category aircraft, and the lower aircraft is VFR or SVFR operating at an altitude of 4500 ft or below.*
+*9.4.2 Where vertical separation from Special Use Airspace is required, controlled flights will be required to fly at levels which ensure the separation minima specified in Table ENR 1.1-1, above or below the airspace. Where no minimum is specified aircraft will be kept clear of the airspace.*
+
+***9.5 Horizontal Separation***
+*9.5.1 Horizontal separation may consist of:*
+	*(a) longitudinal separation;*
+	*(b) lateral separation;*
+	*(c) radar separation;*
+	*(d) geographical separation.*
+
+***Longitudinal Separation***
+*9.5.2 Longitudinal separation of aircraft is applied so that the spacing between the estimated positions of the aircraft concerned is never less than the prescribed minimum. This minimum will be expressed as a distance or time.*
+*9.5.3 Longitudinal separation is achieved by requiring aircraft:*
+	*(a) to depart at a specified time;*
+	*(b) to lose time to arrive over a specified location at a specified time;*
+	*(c) to hold at a specified location until a specified time; or*
+	*(d) by insuring that aircraft are never less than a specified distance apart.*
+*9.5.4 Aircraft on reciprocal tracks outside of radar cover may be requested to report sighting and passing other aircraft, by day or night, in order to permit a reduction in longitudinal separation. It is the pilot’s responsibility to ensure correct identification of other aircraft. If pilots are unwilling to accept the application of this separation standard, they should not acknowledge the sighting and passing of other traffic.*
+
+***Lateral Separation***
+*9.5.5 Aircraft are considered to be laterally separated provided their positions along track are outside an area known as the area of conflict. The area of conflict is established by applying the navigation tolerance for the navigation aid being used for track guidance, plus a buffer area, to the two tracks. The point at which the buffer areas cease to overlap is termed the lateral separation point and is normally expressed as a distance from a navigation aid or reference point.*
+*9.5.6 If a distance reference is not available, entry to, or exit from an area of conflict may be determined by radar, or by the passage of an aircraft over:*
+	*(a) a point beyond the lateral separation point determined by a radio navigation aid; or*
+	*(b) a point beyond the lateral separation point determined by visual reference. (Available during hours of daylight only.)*
+*9.5.7 When two aircraft will enter an area of conflict, action will be taken by ATC in sufficient time to ensure that vertical or longitudinal separation exists before the second aircraft passes the lateral separation point on its route. Should doubt exist that an aircraft can reach its assigned altitude before lateral separation is lost, the pilot must confirm the ability to meet the terms of their clearance.*
+
+***Radar Separation***
+*9.5.8 Radar separation is detailed in ENR 1.6 paragraph 3.13. Wake turbulence separation is detailed in AD 1.7 paragraph 1.3.*
+
+***Geographical Separation***
+*9.5.9 Geographical separation is achieved by requiring one or more aircraft, which are operating by visual reference, to follow tracks identified by prominent geographical features, landmarks or visual reporting points, or to remain within specified CTR/CTA sectors, which have been determined as being geographically separated from other tracks or procedures. Geographical separation may be applied within terminal control areas and CTR up to 6000 ft AMSL.*
+*9.5.10 Navigating by visual reference in order to achieve geographical separation requires aircraft to use Visual Navigation Charts or an electronic equivalent. For flights when either a visual departure or visual approach might be anticipated appropriate visual navigation charts or an electronic equivalent should be carried.*
+##### 16.63.10 Describe the situations where the normal separation may be reduced. AIP ENR
+
+***ENR 1.1 - 9.6 Visual Separation (Reduced Separation)***
+***Within Controlled Airspace Beyond the Vicinity of an Aerodrome***
+*9.6.1 In Classes C and D airspace, vertical or horizontal separation may be reduced by the application of visual separation provided that:*
+	*(a) such clearances will only be issued during hours of daylight; and*
+	*(b) a specific request is made by a pilot; and*
+	*(c) the pilots are in direct communication with the ATC unit on the same frequency, except when under the control of adjacent radar positions sharing common airspace; and*
+	*(d) both flights remain in VMC; and*
+	*(e) there is no possibility of incorrect identification; and*
+	*(f) each aircraft is continuously visible to the pilot of the other aircraft; and*
+	*(g) both pilots concur with the application of the procedure; or*
+	*(h) the pilot of the succeeding aircraft reports having the preceding aircraft in sight and can maintain visual separation.*
+
+***In the Vicinity of Aerodromes***
+*9.6.2 Vertical or horizontal separation may be reduced in the vicinity of aerodromes if:*
+	*(a) adequate separation can be provided by the aerodrome controller when each aircraft is continuously visible to that controller; or*
+	*(b) each aircraft is continuously visible to the pilot of the other aircraft concerned and both pilots report that they can maintain visual separation; or*
+	*(c) in the case of one aircraft following another, the pilot of the succeeding aircraft reports the preceding aircraft in sight and can maintain visual separation.*
+
+##### 16.63.12 State the wake turbulence separation requirements for light aircraft in non-radar environment. AIP AD
+
+**Departing Flights for light aircraft following:**
+SUPER - 3 minutes (4 minutes if not same take off position)
+HEAVY - 2 minutes (3 minutes)
+MEDIUM - 2 minutes (3 minutes)
+
+**Time based for light aircraft following a:**
+SUPER - 4 minutes
+HEAVY - 3 minutes
+MEDIUM - 3 minutes.
+
+**Arriving/Departing crossover for light aircraft if paths cross:** (First is leading aircraft, light aircraft is following)
+SUPER ARRIVAL - 3 minutes
+HEAVY ARRIVAL - 2 minutes
+MEDIUM ARRIVAL - 2 minutes
+
+SUPER DEPARTURE - 3 minutes
+HEAVY DEPARTURE - 2 minutes
+MEDIUM DEPARTURE - 3 minutes
+
+
+***AD 1.7 - WAKE TURBULENCE AND JET BLAST***
+*Many page. No copy here.*
 
 #### 16.66 Radar Services
 
-16.66.2 Describe the radar services available to VFR flights. AIP ENR
+##### 16.66.2 Describe the radar services available to VFR flights. AIP ENR
+
+Can be requested. Best effort. Terrain clearance is pilots responsibility.
+
+***ENR 1.6 - 3 ATS SURVEILLANCE SERVICES***
+***3.5 Radar Services to VFR Flights***
+*3.5.1 Radar Control, radar advisory and radar information services, as appropriate, are provided to VFR flights under area radar or approach radar control within radar coverage in Class C and Class D airspace.*
+*3.5.2 Radar services are not normally provided to VFR flights within radar coverage operating in Class G airspace. Every effort will be made to provide a service if requested, but it will be limited to:*
+	*(a) assisting aircraft experiencing an emergency; or*
+	*(b) giving navigational assistance; or*
+	*(c) Flight Path Monitoring for aircraft crossing Cook Strait.*
+*3.5.3 The use of radar by ATC does not absolve the pilot from compliance with the requirements for operation under VFR. Terrain clearance remains the responsibility of the pilot.*
+*3.5.4 Should pilots operating under VFR encounter a situation where their ability to remain clear of terrain is compromised, any requests for assistance from ATS must include details of the circumstances.*
 
 #### 16.68 Reserved
 
 ## Airspace, Aerodromes and Heliports
 
 #### 16.70 Altimetry
-16.70.2 Explain the altimeter setting requirements for flight under VFR. CAR Part 91 & AIP ENR
-16.70.4 State the procedure to use to obtain an altimeter setting when QNH is not available
-prior to take-off and the requirement to obtain a QNH once in flight. AIP ENR
-16.70.6 Describe QNH zones and state when zone QNH should be used. AIP ENR
-16.70.8 Describe the transition altitude, layer and level. AIP ENR
+##### 16.70.2 Explain the altimeter setting requirements for flight under VFR. CAR Part 91 & AIP ENR
+
+***91.239 Altimeter settings***
+*(a) A pilot of an aircraft must maintain the cruising altitude or flight level of the aircraft by reference to an altimeter that is set in accordance with the following:*
+	*(1) when operating at or above flight level 150, set altimeter to 1013.2 hPa:*
+	*(2) when operating at or below 13 000 feet, set altimeter to the appropriate area QNH zone setting or aerodrome QNH altimeter setting:*
+	*(3) when operating between 13 000 feet and flight level 150, set altimeter to the appropriate area QNH zone setting as advised by an ATC unit.*
+*(b) A pilot of an aircraft that is ascending or descending must set the altimeter in accordance with the following:*
+	*(1) when ascending above 13 000 feet, set altimeter to 1013.2 hPa:*
+	*(2) when descending through flight level 150, set altimeter to the appropriate area QNH zone setting or aerodrome QNH altimeter setting.*
+
+***ENR 1.7 - 2.2 Altimeter Setting Procedures — New Zealand FIR***
+***QNH Altimeter Settings***
+*2.2.8 In Class C and D airspace, the pilot of an aircraft must maintain vertical position by reference to the QNH setting advised by ATS.*
+*2.2.9 The pilot of an aircraft operating in Class G airspace must maintain vertical position by reference to the Zone Area QNH setting except that the appropriate aerodrome QNH setting must be used for:*
+	*(a) take-off, landing, and flight within the aerodrome traffic circuit; and*
+	*(b) the intermediate and final approach segments of an instrument approach.*
+*2.2.10 The pilot of an aircraft departing from an aerodrome where no QNH setting is available must set aerodrome elevation on the altimeter prior to departure and obtain the appropriate altimeter setting from an ATS unit as soon as possible, and in any case, before entering IMC.*
+
+##### 16.70.4 State the procedure to use to obtain an altimeter setting when QNH is not available prior to take-off and the requirement to obtain a QNH once in flight. AIP ENR
+
+***ENR 1.7 - 2.2 Altimeter Setting Procedures — New Zealand FIR***
+*2.2.10 The pilot of an aircraft departing from an aerodrome where no QNH setting is available must set aerodrome elevation on the altimeter prior to departure and obtain the appropriate altimeter setting from an ATS unit as soon as possible, and in any case, before entering IMC.*
+
+##### 16.70.6 Describe QNH zones and state when zone QNH should be used. AIP ENR
+
+***ENR 1.7 - 3.2 Area QNH Zones — New Zealand FIR**
+3.2.1 There are 12 defined Area QNH zones within the New Zealand FIR. These zones are shown in Figure ENR 1.7-2. A detailed description of each of these Area QNH zones is 
+provided in the New Zealand Air Navigation Register
+
+***ENR 1.7 - 2.2 Altimeter Setting Procedures — New Zealand FIR***
+***QNH Altimeter Settings***
+*2.2.9 The pilot of an aircraft operating in Class G airspace must maintain vertical position by reference to the Zone Area QNH setting except that the appropriate aerodrome QNH setting must be used for:*
+	*(a) take-off, landing, and flight within the aerodrome traffic circuit; and*
+	*(b) the intermediate and final approach segments of an instrument approach.*
+
+##### 16.70.8 Describe the transition altitude, layer and level. AIP ENR
+
+***ENR 1.7 - 2.2 Altimeter Setting Procedures — New Zealand FIR***
+***2.2 Altimeter Setting Procedures — New Zealand FIR***
+	*(a) at or above the transition level of FL150 must maintain vertical position by reference to the standard pressure value of 1013.2 hPa; and*
+	*(b) at or below the transition altitude of 13,000 ft must maintain vertical position by reference to the QNH altimeter setting; and*
+	*(c) between 13,000 ft and the transition level of FL150 must maintain vertical position by reference to the altimeter setting as advised by ATC.*
 
 #### 16.72 Cruising Levels
 
-16.72.2 State the altitude requirements when cruising VFR within the New Zealand FIR. CAR Part 91 & AIP ENR
-16.72.4 Describe situations where ATC may assign cruising altitudes not in accordance with the VFR table of cruising altitudes. AIP ENR
+##### 16.72.2 State the altitude requirements when cruising VFR within the New Zealand FIR. CAR Part 91 & AIP ENR
+##### 16.72.4 Describe situations where ATC may assign cruising altitudes not in accordance with the VFR table of cruising altitudes. AIP ENR
+
+NOSE - North Odd, South Even. (+500ft for VFR)
+
+***ENR 1.7 - 4 Magnetic Track Altitude Requirements***
+***VFR Flights***
+*4.2.2 CAR 91.313 requires the pilot of an aircraft, other than a glider or hang glider, operating under VFR in level cruising flight at more than 3000 ft AMSL or 1000 ft AGL (whichever is the higher) to fly at an altitude or FL appropriate to the track as specified in Table ENR 1.7-2: New Zealand FIR Table of Cruising Levels.The exceptions to this are:*
+	*(a) when otherwise authorised by ATC during flight within, entering or leaving Class C and D airspace; or*
+	*(b) when operating within controlled airspace, where ATC may assign IFR levels to VFR aircraft.*
 
 #### 16.74 Transponders
 
-16.74.2 State the requirements for the operation of transponders within the New Zealand FIR. CAR Part 91 & AIP ENR
-16.74.4 Describe the procedures required of pilots operating transponders. AIP ENR
-16.74.6 State the requirements and limitations on an aircraft operating under VFR in transponder mandatory airspace without an operating transponder. CAR Part 91 & AIP ENR
+##### 16.74.2 State the requirements for the operation of transponders within the New Zealand FIR. CAR Part 91 & AIP ENR
+
+***91.247 Use of transponder and altitude reporting equipment***
+*a) Except as provided in paragraph (g), a pilot-in-command of an aircraft operating in transponder mandatory controlled airspace designated under Part 71 within the New Zealand FIR must, unless otherwise authorised or instructed by ATC—*
+	*(1) operate the transponder to transmit ADS-B data; and*
+	*(2) ensure that ADS-B data is transmitted at all times when the aircraft begins to move under its own power until it has come to a complete stop at the end of the flight.*
+
+##### 16.74.4 Describe the procedures required of pilots operating transponders. AIP ENR
+
+***91.247 Use of transponder and altitude reporting equipment***
+*(b) A pilot-in-command of an aircraft operating in uncontrolled transponder mandatory special use airspace designated under Part 71 within the New Zealand FIR must operate the transponder —*
+	*(1) in Mode A and Mode C; or*
+	*(2) in Mode S if the aircraft is equipped with Mode S equipment and allocated a unique Mode S code referred to in paragraph (d); or*
+	*(3) referred to in rule 91.257(1) providing an ADS-B system as specified in that rule.*
+*(c) Except if paragraph (3) applies or if operating Mode S equipment, the pilot-in-command must set the transponder SSR code—*
+	*(1) to the code assigned by ATC for the flight; or*
+	*(2) if not assigned a code by ATC, in accordance with Table 2; and*
+	*(3) in the event of an in-flight emergency, loss of radio communications, or an act of unlawful interference, set the transponder to the appropriate code in accordance with Table 3.*
+*(d) A pilot-in-command of an aircraft must not operate Mode S transponder equipment unless the aircraft is transmitting a unique Mode S code assigned by the State of Registry.*
+*(e) Reserved*
+*(f) A pilot-in-command of an aircraft operating in transponder mandatory controlled airspace must immediately advise the ATC unit having jurisdiction over the relevant airspace of any failure or partial failure of the transponder equipment.*
+
+##### 16.74.6 State the requirements and limitations on an aircraft operating under VFR in transponder mandatory airspace without an operating transponder. CAR Part 91 & AIP ENR
+
+***91.247 Use of transponder and altitude reporting equipment***
+*(g) Unless otherwise required by ATC, only one of the aircraft in a formation flight is required to operate a transponder in accordance with paragraph (a) or paragraph (b).*
 
 #### 16.75 Airspace
 
@@ -2585,6 +3082,7 @@ prior to take-off and the requirement to obtain a QNH once in flight. AIP ENR
 (g) Runway lead in lighting (RLLS);
 (h) Pilot activated lighting (PAL); and
 (i) Precision approach path indicators (PAPI).
+
 16.78.6 Describe aerodrome beacons.
 16.78.8 Describe the indication of above, on and below slope for:
 (a) PAPIs;
